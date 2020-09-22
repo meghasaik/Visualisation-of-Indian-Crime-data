@@ -1,0 +1,4226 @@
+{
+    "2001": {
+        "A & N Islands": {
+            "Domestic_Violence": 5.56,
+            "Domestic_Violence-Cases-Reported": 9,
+            "Kidnapping": 1.23,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 1.85,
+            "Rape-Cases-Reported": 3,
+            "Sexual_Harrassment": 12.35,
+            "Sexual_Harrassment-Cases-Reported": 20
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 18.23,
+            "Domestic_Violence-Cases-Reported": 6211,
+            "Kidnapping": 2.27,
+            "Kidnapping-Cases-Reported": 772,
+            "Rape": 2.56,
+            "Rape-Cases-Reported": 871,
+            "Sexual_Harrassment": 17.06,
+            "Sexual_Harrassment-Cases-Reported": 5815
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.24,
+            "Domestic_Violence-Cases-Reported": 11,
+            "Kidnapping": 11.21,
+            "Kidnapping-Cases-Reported": 55,
+            "Rape": 6.73,
+            "Rape-Cases-Reported": 33,
+            "Sexual_Harrassment": 16.51,
+            "Sexual_Harrassment-Cases-Reported": 81
+        },
+        "Assam": {
+            "Domestic_Violence": 10.9,
+            "Domestic_Violence-Cases-Reported": 1307,
+            "Kidnapping": 8.93,
+            "Kidnapping-Cases-Reported": 1070,
+            "Rape": 6.82,
+            "Rape-Cases-Reported": 817,
+            "Sexual_Harrassment": 7.12,
+            "Sexual_Harrassment-Cases-Reported": 854
+        },
+        "Bihar": {
+            "Domestic_Violence": 6.48,
+            "Domestic_Violence-Cases-Reported": 2417,
+            "Kidnapping": 1.61,
+            "Kidnapping-Cases-Reported": 601,
+            "Rape": 2.38,
+            "Rape-Cases-Reported": 888,
+            "Sexual_Harrassment": 1.56,
+            "Sexual_Harrassment-Cases-Reported": 583
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 9.63,
+            "Domestic_Violence-Cases-Reported": 39,
+            "Kidnapping": 12.35,
+            "Kidnapping-Cases-Reported": 50,
+            "Rape": 4.44,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 9.63,
+            "Sexual_Harrassment-Cases-Reported": 39
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 9.72,
+            "Domestic_Violence-Cases-Reported": 910,
+            "Kidnapping": 1.83,
+            "Kidnapping-Cases-Reported": 171,
+            "Rape": 10.25,
+            "Rape-Cases-Reported": 959,
+            "Sexual_Harrassment": 20.56,
+            "Sexual_Harrassment-Cases-Reported": 1924
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 4.04,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 2.02,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 6.06,
+            "Rape-Cases-Reported": 6,
+            "Sexual_Harrassment": 7.07,
+            "Sexual_Harrassment-Cases-Reported": 7
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 5.56,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 4.17,
+            "Kidnapping-Cases-Reported": 3,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Delhi": {
+            "Domestic_Violence": 4.05,
+            "Domestic_Violence-Cases-Reported": 251,
+            "Kidnapping": 15.55,
+            "Kidnapping-Cases-Reported": 964,
+            "Rape": 6.14,
+            "Rape-Cases-Reported": 381,
+            "Sexual_Harrassment": 9.55,
+            "Sexual_Harrassment-Cases-Reported": 592
+        },
+        "Goa": {
+            "Domestic_Violence": 2.16,
+            "Domestic_Violence-Cases-Reported": 13,
+            "Kidnapping": 1.0,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 1.99,
+            "Rape-Cases-Reported": 12,
+            "Sexual_Harrassment": 3.98,
+            "Sexual_Harrassment-Cases-Reported": 24
+        },
+        "Gujarat": {
+            "Domestic_Violence": 16.4,
+            "Domestic_Violence-Cases-Reported": 3734,
+            "Kidnapping": 3.76,
+            "Kidnapping-Cases-Reported": 857,
+            "Rape": 1.26,
+            "Rape-Cases-Reported": 286,
+            "Sexual_Harrassment": 3.81,
+            "Sexual_Harrassment-Cases-Reported": 867
+        },
+        "Haryana": {
+            "Domestic_Violence": 18.95,
+            "Domestic_Violence-Cases-Reported": 1798,
+            "Kidnapping": 3.13,
+            "Kidnapping-Cases-Reported": 297,
+            "Rape": 4.2,
+            "Rape-Cases-Reported": 398,
+            "Sexual_Harrassment": 9.27,
+            "Sexual_Harrassment-Cases-Reported": 879
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 11.95,
+            "Domestic_Violence-Cases-Reported": 327,
+            "Kidnapping": 3.84,
+            "Kidnapping-Cases-Reported": 105,
+            "Rape": 4.53,
+            "Rape-Cases-Reported": 124,
+            "Sexual_Harrassment": 11.84,
+            "Sexual_Harrassment-Cases-Reported": 324
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 1.39,
+            "Domestic_Violence-Cases-Reported": 63,
+            "Kidnapping": 11.12,
+            "Kidnapping-Cases-Reported": 504,
+            "Rape": 3.73,
+            "Rape-Cases-Reported": 169,
+            "Sexual_Harrassment": 20.08,
+            "Sexual_Harrassment-Cases-Reported": 910
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 5.79,
+            "Domestic_Violence-Cases-Reported": 701,
+            "Kidnapping": 2.32,
+            "Kidnapping-Cases-Reported": 281,
+            "Rape": 4.68,
+            "Rape-Cases-Reported": 567,
+            "Sexual_Harrassment": 2.49,
+            "Sexual_Harrassment-Cases-Reported": 302
+        },
+        "Karnataka": {
+            "Domestic_Violence": 8.32,
+            "Domestic_Violence-Cases-Reported": 1975,
+            "Kidnapping": 1.14,
+            "Kidnapping-Cases-Reported": 271,
+            "Rape": 1.23,
+            "Rape-Cases-Reported": 293,
+            "Sexual_Harrassment": 7.36,
+            "Sexual_Harrassment-Cases-Reported": 1746
+        },
+        "Kerala": {
+            "Domestic_Violence": 18.06,
+            "Domestic_Violence-Cases-Reported": 2588,
+            "Kidnapping": 0.68,
+            "Kidnapping-Cases-Reported": 97,
+            "Rape": 3.92,
+            "Rape-Cases-Reported": 562,
+            "Sexual_Harrassment": 14.12,
+            "Sexual_Harrassment-Cases-Reported": 2023
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 11.67,
+            "Domestic_Violence-Cases-Reported": 3171,
+            "Kidnapping": 2.46,
+            "Kidnapping-Cases-Reported": 668,
+            "Rape": 10.49,
+            "Rape-Cases-Reported": 2851,
+            "Sexual_Harrassment": 28.75,
+            "Sexual_Harrassment-Cases-Reported": 7814
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 14.7,
+            "Domestic_Violence-Cases-Reported": 6398,
+            "Kidnapping": 1.41,
+            "Kidnapping-Cases-Reported": 612,
+            "Rape": 2.99,
+            "Rape-Cases-Reported": 1302,
+            "Sexual_Harrassment": 9.06,
+            "Sexual_Harrassment-Cases-Reported": 3943
+        },
+        "Manipur": {
+            "Domestic_Violence": 0.46,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 5.76,
+            "Kidnapping-Cases-Reported": 62,
+            "Rape": 1.86,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 1.95,
+            "Sexual_Harrassment-Cases-Reported": 21
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 0.38,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 1.06,
+            "Kidnapping-Cases-Reported": 11,
+            "Rape": 2.5,
+            "Rape-Cases-Reported": 26,
+            "Sexual_Harrassment": 2.41,
+            "Sexual_Harrassment-Cases-Reported": 25
+        },
+        "Mizoram": {
+            "Domestic_Violence": 4.0,
+            "Domestic_Violence-Cases-Reported": 16,
+            "Kidnapping": 1.0,
+            "Kidnapping-Cases-Reported": 4,
+            "Rape": 12.98,
+            "Rape-Cases-Reported": 52,
+            "Sexual_Harrassment": 12.98,
+            "Sexual_Harrassment-Cases-Reported": 52
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.67,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 1.9,
+            "Rape-Cases-Reported": 17,
+            "Sexual_Harrassment": 0.67,
+            "Sexual_Harrassment-Cases-Reported": 6
+        },
+        "Orissa": {
+            "Domestic_Violence": 9.44,
+            "Domestic_Violence-Cases-Reported": 1560,
+            "Kidnapping": 2.63,
+            "Kidnapping-Cases-Reported": 434,
+            "Rape": 4.78,
+            "Rape-Cases-Reported": 790,
+            "Sexual_Harrassment": 12.79,
+            "Sexual_Harrassment-Cases-Reported": 2113
+        },
+        "Puducherry": {
+            "Domestic_Violence": 0.92,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.69,
+            "Kidnapping-Cases-Reported": 3,
+            "Rape": 2.06,
+            "Rape-Cases-Reported": 9,
+            "Sexual_Harrassment": 14.2,
+            "Sexual_Harrassment-Cases-Reported": 62
+        },
+        "Punjab": {
+            "Domestic_Violence": 11.77,
+            "Domestic_Violence-Cases-Reported": 1287,
+            "Kidnapping": 2.96,
+            "Kidnapping-Cases-Reported": 324,
+            "Rape": 2.73,
+            "Rape-Cases-Reported": 298,
+            "Sexual_Harrassment": 3.83,
+            "Sexual_Harrassment-Cases-Reported": 419
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 23.25,
+            "Domestic_Violence-Cases-Reported": 5908,
+            "Kidnapping": 8.52,
+            "Kidnapping-Cases-Reported": 2166,
+            "Rape": 4.13,
+            "Rape-Cases-Reported": 1049,
+            "Sexual_Harrassment": 11.55,
+            "Sexual_Harrassment-Cases-Reported": 2934
+        },
+        "Sikkim": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.82,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 3.29,
+            "Rape-Cases-Reported": 8,
+            "Sexual_Harrassment": 5.76,
+            "Sexual_Harrassment-Cases-Reported": 14
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 3.6,
+            "Domestic_Violence-Cases-Reported": 1006,
+            "Kidnapping": 2.22,
+            "Kidnapping-Cases-Reported": 621,
+            "Rape": 1.51,
+            "Rape-Cases-Reported": 423,
+            "Sexual_Harrassment": 9.96,
+            "Sexual_Harrassment-Cases-Reported": 2785
+        },
+        "Tripura": {
+            "Domestic_Violence": 16.93,
+            "Domestic_Violence-Cases-Reported": 243,
+            "Kidnapping": 2.44,
+            "Kidnapping-Cases-Reported": 35,
+            "Rape": 7.11,
+            "Rape-Cases-Reported": 102,
+            "Sexual_Harrassment": 4.04,
+            "Sexual_Harrassment-Cases-Reported": 58
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 12.82,
+            "Domestic_Violence-Cases-Reported": 9576,
+            "Kidnapping": 3.85,
+            "Kidnapping-Cases-Reported": 2879,
+            "Rape": 2.62,
+            "Rape-Cases-Reported": 1958,
+            "Sexual_Harrassment": 7.29,
+            "Sexual_Harrassment-Cases-Reported": 5445
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 9.36,
+            "Domestic_Violence-Cases-Reported": 357,
+            "Kidnapping": 3.3,
+            "Kidnapping-Cases-Reported": 126,
+            "Rape": 1.94,
+            "Rape-Cases-Reported": 74,
+            "Sexual_Harrassment": 4.9,
+            "Sexual_Harrassment-Cases-Reported": 187
+        },
+        "West Bengal": {
+            "Domestic_Violence": 11.42,
+            "Domestic_Violence-Cases-Reported": 4124,
+            "Kidnapping": 1.93,
+            "Kidnapping-Cases-Reported": 698,
+            "Rape": 1.96,
+            "Rape-Cases-Reported": 709,
+            "Sexual_Harrassment": 2.78,
+            "Sexual_Harrassment-Cases-Reported": 1002
+        }
+    },
+    "2002": {
+        "A & N Islands": {
+            "Domestic_Violence": 2.4,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.6,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 1.2,
+            "Rape-Cases-Reported": 2,
+            "Sexual_Harrassment": 12.01,
+            "Sexual_Harrassment-Cases-Reported": 20
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 21.57,
+            "Domestic_Violence-Cases-Reported": 7467,
+            "Kidnapping": 2.47,
+            "Kidnapping-Cases-Reported": 854,
+            "Rape": 2.89,
+            "Rape-Cases-Reported": 1002,
+            "Sexual_Harrassment": 16.82,
+            "Sexual_Harrassment-Cases-Reported": 5823
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.58,
+            "Domestic_Violence-Cases-Reported": 13,
+            "Kidnapping": 7.54,
+            "Kidnapping-Cases-Reported": 38,
+            "Rape": 7.54,
+            "Rape-Cases-Reported": 38,
+            "Sexual_Harrassment": 13.89,
+            "Sexual_Harrassment-Cases-Reported": 70
+        },
+        "Assam": {
+            "Domestic_Violence": 14.39,
+            "Domestic_Violence-Cases-Reported": 1764,
+            "Kidnapping": 10.41,
+            "Kidnapping-Cases-Reported": 1276,
+            "Rape": 7.91,
+            "Rape-Cases-Reported": 970,
+            "Sexual_Harrassment": 8.08,
+            "Sexual_Harrassment-Cases-Reported": 991
+        },
+        "Bihar": {
+            "Domestic_Violence": 6.53,
+            "Domestic_Violence-Cases-Reported": 2504,
+            "Kidnapping": 2.04,
+            "Kidnapping-Cases-Reported": 782,
+            "Rape": 2.71,
+            "Rape-Cases-Reported": 1040,
+            "Sexual_Harrassment": 1.64,
+            "Sexual_Harrassment-Cases-Reported": 627
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 13.62,
+            "Domestic_Violence-Cases-Reported": 57,
+            "Kidnapping": 11.23,
+            "Kidnapping-Cases-Reported": 47,
+            "Rape": 4.3,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 15.29,
+            "Sexual_Harrassment-Cases-Reported": 64
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 7.7,
+            "Domestic_Violence-Cases-Reported": 738,
+            "Kidnapping": 1.61,
+            "Kidnapping-Cases-Reported": 154,
+            "Rape": 10.35,
+            "Rape-Cases-Reported": 992,
+            "Sexual_Harrassment": 17.01,
+            "Sexual_Harrassment-Cases-Reported": 1630
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 2.9,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 4.83,
+            "Kidnapping-Cases-Reported": 5,
+            "Rape": 3.86,
+            "Rape-Cases-Reported": 4,
+            "Sexual_Harrassment": 2.9,
+            "Sexual_Harrassment-Cases-Reported": 3
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 4.17,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 2.78,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Delhi": {
+            "Domestic_Violence": 4.17,
+            "Domestic_Violence-Cases-Reported": 270,
+            "Kidnapping": 13.8,
+            "Kidnapping-Cases-Reported": 893,
+            "Rape": 6.23,
+            "Rape-Cases-Reported": 403,
+            "Sexual_Harrassment": 8.87,
+            "Sexual_Harrassment-Cases-Reported": 574
+        },
+        "Goa": {
+            "Domestic_Violence": 1.6,
+            "Domestic_Violence-Cases-Reported": 10,
+            "Kidnapping": 0.8,
+            "Kidnapping-Cases-Reported": 5,
+            "Rape": 1.92,
+            "Rape-Cases-Reported": 12,
+            "Sexual_Harrassment": 3.84,
+            "Sexual_Harrassment-Cases-Reported": 24
+        },
+        "Gujarat": {
+            "Domestic_Violence": 14.52,
+            "Domestic_Violence-Cases-Reported": 3383,
+            "Kidnapping": 3.46,
+            "Kidnapping-Cases-Reported": 807,
+            "Rape": 1.15,
+            "Rape-Cases-Reported": 267,
+            "Sexual_Harrassment": 3.66,
+            "Sexual_Harrassment-Cases-Reported": 854
+        },
+        "Haryana": {
+            "Domestic_Violence": 18.7,
+            "Domestic_Violence-Cases-Reported": 1821,
+            "Kidnapping": 2.98,
+            "Kidnapping-Cases-Reported": 290,
+            "Rape": 3.71,
+            "Rape-Cases-Reported": 361,
+            "Sexual_Harrassment": 19.29,
+            "Sexual_Harrassment-Cases-Reported": 1878
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 8.63,
+            "Domestic_Violence-Cases-Reported": 240,
+            "Kidnapping": 4.17,
+            "Kidnapping-Cases-Reported": 116,
+            "Rape": 4.93,
+            "Rape-Cases-Reported": 137,
+            "Sexual_Harrassment": 12.15,
+            "Sexual_Harrassment-Cases-Reported": 338
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 1.53,
+            "Domestic_Violence-Cases-Reported": 72,
+            "Kidnapping": 12.69,
+            "Kidnapping-Cases-Reported": 596,
+            "Rape": 4.09,
+            "Rape-Cases-Reported": 192,
+            "Sexual_Harrassment": 24.54,
+            "Sexual_Harrassment-Cases-Reported": 1153
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 6.96,
+            "Domestic_Violence-Cases-Reported": 863,
+            "Kidnapping": 1.73,
+            "Kidnapping-Cases-Reported": 214,
+            "Rape": 6.43,
+            "Rape-Cases-Reported": 797,
+            "Sexual_Harrassment": 3.34,
+            "Sexual_Harrassment-Cases-Reported": 414
+        },
+        "Karnataka": {
+            "Domestic_Violence": 8.52,
+            "Domestic_Violence-Cases-Reported": 2059,
+            "Kidnapping": 1.24,
+            "Kidnapping-Cases-Reported": 300,
+            "Rape": 1.21,
+            "Rape-Cases-Reported": 292,
+            "Sexual_Harrassment": 7.24,
+            "Sexual_Harrassment-Cases-Reported": 1748
+        },
+        "Kerala": {
+            "Domestic_Violence": 19.65,
+            "Domestic_Violence-Cases-Reported": 2853,
+            "Kidnapping": 0.63,
+            "Kidnapping-Cases-Reported": 91,
+            "Rape": 3.44,
+            "Rape-Cases-Reported": 499,
+            "Sexual_Harrassment": 15.32,
+            "Sexual_Harrassment-Cases-Reported": 2225
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 3.7,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 3.7,
+            "Sexual_Harrassment-Cases-Reported": 1
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 13.57,
+            "Domestic_Violence-Cases-Reported": 3791,
+            "Kidnapping": 2.29,
+            "Kidnapping-Cases-Reported": 639,
+            "Rape": 10.35,
+            "Rape-Cases-Reported": 2891,
+            "Sexual_Harrassment": 28.29,
+            "Sexual_Harrassment-Cases-Reported": 7901
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 12.72,
+            "Domestic_Violence-Cases-Reported": 5656,
+            "Kidnapping": 1.46,
+            "Kidnapping-Cases-Reported": 650,
+            "Rape": 3.04,
+            "Rape-Cases-Reported": 1352,
+            "Sexual_Harrassment": 7.77,
+            "Sexual_Harrassment-Cases-Reported": 3455
+        },
+        "Manipur": {
+            "Domestic_Violence": 0.91,
+            "Domestic_Violence-Cases-Reported": 10,
+            "Kidnapping": 7.47,
+            "Kidnapping-Cases-Reported": 82,
+            "Rape": 1.28,
+            "Rape-Cases-Reported": 14,
+            "Sexual_Harrassment": 5.28,
+            "Sexual_Harrassment-Cases-Reported": 58
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.94,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 3.58,
+            "Rape-Cases-Reported": 38,
+            "Sexual_Harrassment": 2.17,
+            "Sexual_Harrassment-Cases-Reported": 23
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.73,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 0.49,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 18.56,
+            "Rape-Cases-Reported": 76,
+            "Sexual_Harrassment": 17.83,
+            "Sexual_Harrassment-Cases-Reported": 73
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.43,
+            "Kidnapping-Cases-Reported": 4,
+            "Rape": 1.84,
+            "Rape-Cases-Reported": 17,
+            "Sexual_Harrassment": 0.11,
+            "Sexual_Harrassment-Cases-Reported": 1
+        },
+        "Orissa": {
+            "Domestic_Violence": 8.42,
+            "Domestic_Violence-Cases-Reported": 1415,
+            "Kidnapping": 2.57,
+            "Kidnapping-Cases-Reported": 432,
+            "Rape": 4.11,
+            "Rape-Cases-Reported": 691,
+            "Sexual_Harrassment": 10.67,
+            "Sexual_Harrassment-Cases-Reported": 1793
+        },
+        "Puducherry": {
+            "Domestic_Violence": 3.14,
+            "Domestic_Violence-Cases-Reported": 14,
+            "Kidnapping": 1.35,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 1.35,
+            "Rape-Cases-Reported": 6,
+            "Sexual_Harrassment": 19.08,
+            "Sexual_Harrassment-Cases-Reported": 85
+        },
+        "Punjab": {
+            "Domestic_Violence": 9.96,
+            "Domestic_Violence-Cases-Reported": 1110,
+            "Kidnapping": 3.18,
+            "Kidnapping-Cases-Reported": 354,
+            "Rape": 2.68,
+            "Rape-Cases-Reported": 299,
+            "Sexual_Harrassment": 4.36,
+            "Sexual_Harrassment-Cases-Reported": 486
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 23.28,
+            "Domestic_Violence-Cases-Reported": 6090,
+            "Kidnapping": 7.72,
+            "Kidnapping-Cases-Reported": 2019,
+            "Rape": 4.02,
+            "Rape-Cases-Reported": 1051,
+            "Sexual_Harrassment": 10.6,
+            "Sexual_Harrassment-Cases-Reported": 2774
+        },
+        "Sikkim": {
+            "Domestic_Violence": 1.21,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 0.81,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 2.42,
+            "Rape-Cases-Reported": 6,
+            "Sexual_Harrassment": 6.87,
+            "Sexual_Harrassment-Cases-Reported": 17
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 4.57,
+            "Domestic_Violence-Cases-Reported": 1295,
+            "Kidnapping": 2.52,
+            "Kidnapping-Cases-Reported": 714,
+            "Rape": 1.89,
+            "Rape-Cases-Reported": 534,
+            "Sexual_Harrassment": 12.69,
+            "Sexual_Harrassment-Cases-Reported": 3595
+        },
+        "Tripura": {
+            "Domestic_Violence": 17.23,
+            "Domestic_Violence-Cases-Reported": 252,
+            "Kidnapping": 3.28,
+            "Kidnapping-Cases-Reported": 48,
+            "Rape": 7.38,
+            "Rape-Cases-Reported": 108,
+            "Sexual_Harrassment": 8.75,
+            "Sexual_Harrassment-Cases-Reported": 128
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 9.85,
+            "Domestic_Violence-Cases-Reported": 7572,
+            "Kidnapping": 2.99,
+            "Kidnapping-Cases-Reported": 2298,
+            "Rape": 1.84,
+            "Rape-Cases-Reported": 1415,
+            "Sexual_Harrassment": 5.25,
+            "Sexual_Harrassment-Cases-Reported": 4032
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 9.78,
+            "Domestic_Violence-Cases-Reported": 382,
+            "Kidnapping": 3.99,
+            "Kidnapping-Cases-Reported": 156,
+            "Rape": 2.28,
+            "Rape-Cases-Reported": 89,
+            "Sexual_Harrassment": 6.2,
+            "Sexual_Harrassment-Cases-Reported": 242
+        },
+        "West Bengal": {
+            "Domestic_Violence": 11.81,
+            "Domestic_Violence-Cases-Reported": 4342,
+            "Kidnapping": 1.89,
+            "Kidnapping-Cases-Reported": 695,
+            "Rape": 2.06,
+            "Rape-Cases-Reported": 759,
+            "Sexual_Harrassment": 2.71,
+            "Sexual_Harrassment-Cases-Reported": 998
+        }
+    },
+    "2003": {
+        "A & N Islands": {
+            "Domestic_Violence": 4.2,
+            "Domestic_Violence-Cases-Reported": 7,
+            "Kidnapping": 1.2,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 1.2,
+            "Rape-Cases-Reported": 2,
+            "Sexual_Harrassment": 6.61,
+            "Sexual_Harrassment-Cases-Reported": 11
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 24.64,
+            "Domestic_Violence-Cases-Reported": 8633,
+            "Kidnapping": 2.67,
+            "Kidnapping-Cases-Reported": 936,
+            "Rape": 2.7,
+            "Rape-Cases-Reported": 946,
+            "Sexual_Harrassment": 18.3,
+            "Sexual_Harrassment-Cases-Reported": 6414
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.75,
+            "Domestic_Violence-Cases-Reported": 14,
+            "Kidnapping": 10.03,
+            "Kidnapping-Cases-Reported": 51,
+            "Rape": 6.1,
+            "Rape-Cases-Reported": 31,
+            "Sexual_Harrassment": 8.46,
+            "Sexual_Harrassment-Cases-Reported": 43
+        },
+        "Assam": {
+            "Domestic_Violence": 14.97,
+            "Domestic_Violence-Cases-Reported": 1868,
+            "Kidnapping": 10.83,
+            "Kidnapping-Cases-Reported": 1351,
+            "Rape": 8.78,
+            "Rape-Cases-Reported": 1095,
+            "Sexual_Harrassment": 7.08,
+            "Sexual_Harrassment-Cases-Reported": 884
+        },
+        "Bihar": {
+            "Domestic_Violence": 7.14,
+            "Domestic_Violence-Cases-Reported": 2789,
+            "Kidnapping": 1.82,
+            "Kidnapping-Cases-Reported": 711,
+            "Rape": 2.52,
+            "Rape-Cases-Reported": 985,
+            "Sexual_Harrassment": 1.79,
+            "Sexual_Harrassment-Cases-Reported": 699
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 21.76,
+            "Domestic_Violence-Cases-Reported": 94,
+            "Kidnapping": 6.48,
+            "Kidnapping-Cases-Reported": 28,
+            "Rape": 4.17,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 3.47,
+            "Sexual_Harrassment-Cases-Reported": 15
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 6.96,
+            "Domestic_Violence-Cases-Reported": 680,
+            "Kidnapping": 1.52,
+            "Kidnapping-Cases-Reported": 149,
+            "Rape": 9.19,
+            "Rape-Cases-Reported": 898,
+            "Sexual_Harrassment": 16.23,
+            "Sexual_Harrassment-Cases-Reported": 1586
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 1.93,
+            "Domestic_Violence-Cases-Reported": 2,
+            "Kidnapping": 3.86,
+            "Kidnapping-Cases-Reported": 4,
+            "Rape": 0.97,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 3.86,
+            "Sexual_Harrassment-Cases-Reported": 4
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 1.31,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 1.31,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 6.54,
+            "Rape-Cases-Reported": 5,
+            "Sexual_Harrassment": 3.92,
+            "Sexual_Harrassment-Cases-Reported": 3
+        },
+        "Delhi": {
+            "Domestic_Violence": 20.09,
+            "Domestic_Violence-Cases-Reported": 1341,
+            "Kidnapping": 11.94,
+            "Kidnapping-Cases-Reported": 797,
+            "Rape": 7.34,
+            "Rape-Cases-Reported": 490,
+            "Sexual_Harrassment": 8.9,
+            "Sexual_Harrassment-Cases-Reported": 594
+        },
+        "Goa": {
+            "Domestic_Violence": 4.04,
+            "Domestic_Violence-Cases-Reported": 26,
+            "Kidnapping": 2.02,
+            "Kidnapping-Cases-Reported": 13,
+            "Rape": 4.82,
+            "Rape-Cases-Reported": 31,
+            "Sexual_Harrassment": 4.04,
+            "Sexual_Harrassment-Cases-Reported": 26
+        },
+        "Gujarat": {
+            "Domestic_Violence": 15.78,
+            "Domestic_Violence-Cases-Reported": 3738,
+            "Kidnapping": 3.63,
+            "Kidnapping-Cases-Reported": 859,
+            "Rape": 1.0,
+            "Rape-Cases-Reported": 236,
+            "Sexual_Harrassment": 3.44,
+            "Sexual_Harrassment-Cases-Reported": 814
+        },
+        "Haryana": {
+            "Domestic_Violence": 18.55,
+            "Domestic_Violence-Cases-Reported": 1840,
+            "Kidnapping": 2.73,
+            "Kidnapping-Cases-Reported": 271,
+            "Rape": 3.56,
+            "Rape-Cases-Reported": 353,
+            "Sexual_Harrassment": 16.6,
+            "Sexual_Harrassment-Cases-Reported": 1646
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 8.07,
+            "Domestic_Violence-Cases-Reported": 227,
+            "Kidnapping": 3.41,
+            "Kidnapping-Cases-Reported": 96,
+            "Rape": 4.48,
+            "Rape-Cases-Reported": 126,
+            "Sexual_Harrassment": 9.53,
+            "Sexual_Harrassment-Cases-Reported": 268
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 1.68,
+            "Domestic_Violence-Cases-Reported": 81,
+            "Kidnapping": 12.74,
+            "Kidnapping-Cases-Reported": 615,
+            "Rape": 4.37,
+            "Rape-Cases-Reported": 211,
+            "Sexual_Harrassment": 25.91,
+            "Sexual_Harrassment-Cases-Reported": 1251
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 6.52,
+            "Domestic_Violence-Cases-Reported": 821,
+            "Kidnapping": 2.08,
+            "Kidnapping-Cases-Reported": 262,
+            "Rape": 5.65,
+            "Rape-Cases-Reported": 712,
+            "Sexual_Harrassment": 3.38,
+            "Sexual_Harrassment-Cases-Reported": 426
+        },
+        "Karnataka": {
+            "Domestic_Violence": 7.76,
+            "Domestic_Violence-Cases-Reported": 1898,
+            "Kidnapping": 1.0,
+            "Kidnapping-Cases-Reported": 244,
+            "Rape": 1.31,
+            "Rape-Cases-Reported": 321,
+            "Sexual_Harrassment": 6.82,
+            "Sexual_Harrassment-Cases-Reported": 1669
+        },
+        "Kerala": {
+            "Domestic_Violence": 20.19,
+            "Domestic_Violence-Cases-Reported": 2963,
+            "Kidnapping": 0.69,
+            "Kidnapping-Cases-Reported": 102,
+            "Rape": 2.68,
+            "Rape-Cases-Reported": 394,
+            "Sexual_Harrassment": 13.73,
+            "Sexual_Harrassment-Cases-Reported": 2015
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 3.7,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 7.41,
+            "Rape-Cases-Reported": 2,
+            "Sexual_Harrassment": 3.7,
+            "Sexual_Harrassment-Cases-Reported": 1
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 12.58,
+            "Domestic_Violence-Cases-Reported": 3586,
+            "Kidnapping": 2.13,
+            "Kidnapping-Cases-Reported": 608,
+            "Rape": 9.6,
+            "Rape-Cases-Reported": 2738,
+            "Sexual_Harrassment": 26.49,
+            "Sexual_Harrassment-Cases-Reported": 7553
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 12.89,
+            "Domestic_Violence-Cases-Reported": 5820,
+            "Kidnapping": 1.39,
+            "Kidnapping-Cases-Reported": 626,
+            "Rape": 2.81,
+            "Rape-Cases-Reported": 1268,
+            "Sexual_Harrassment": 7.41,
+            "Sexual_Harrassment-Cases-Reported": 3343
+        },
+        "Manipur": {
+            "Domestic_Violence": 0.36,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 6.36,
+            "Kidnapping-Cases-Reported": 71,
+            "Rape": 1.61,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 3.94,
+            "Sexual_Harrassment-Cases-Reported": 44
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 0.37,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.93,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 3.72,
+            "Rape-Cases-Reported": 40,
+            "Sexual_Harrassment": 1.3,
+            "Sexual_Harrassment-Cases-Reported": 14
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.72,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 0.48,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 13.04,
+            "Rape-Cases-Reported": 54,
+            "Sexual_Harrassment": 21.26,
+            "Sexual_Harrassment-Cases-Reported": 88
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.43,
+            "Kidnapping-Cases-Reported": 4,
+            "Rape": 1.5,
+            "Rape-Cases-Reported": 14,
+            "Sexual_Harrassment": 0.64,
+            "Sexual_Harrassment-Cases-Reported": 6
+        },
+        "Orissa": {
+            "Domestic_Violence": 9.21,
+            "Domestic_Violence-Cases-Reported": 1568,
+            "Kidnapping": 2.19,
+            "Kidnapping-Cases-Reported": 373,
+            "Rape": 4.26,
+            "Rape-Cases-Reported": 725,
+            "Sexual_Harrassment": 10.91,
+            "Sexual_Harrassment-Cases-Reported": 1857
+        },
+        "Puducherry": {
+            "Domestic_Violence": 1.1,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 2.86,
+            "Kidnapping-Cases-Reported": 13,
+            "Rape": 0.44,
+            "Rape-Cases-Reported": 2,
+            "Sexual_Harrassment": 18.26,
+            "Sexual_Harrassment-Cases-Reported": 83
+        },
+        "Punjab": {
+            "Domestic_Violence": 9.71,
+            "Domestic_Violence-Cases-Reported": 1097,
+            "Kidnapping": 2.61,
+            "Kidnapping-Cases-Reported": 295,
+            "Rape": 3.36,
+            "Rape-Cases-Reported": 380,
+            "Sexual_Harrassment": 4.82,
+            "Sexual_Harrassment-Cases-Reported": 545
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 22.93,
+            "Domestic_Violence-Cases-Reported": 6122,
+            "Kidnapping": 6.56,
+            "Kidnapping-Cases-Reported": 1751,
+            "Rape": 3.93,
+            "Rape-Cases-Reported": 1050,
+            "Sexual_Harrassment": 10.29,
+            "Sexual_Harrassment-Cases-Reported": 2748
+        },
+        "Sikkim": {
+            "Domestic_Violence": 0.4,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 3.97,
+            "Rape-Cases-Reported": 10,
+            "Sexual_Harrassment": 9.92,
+            "Sexual_Harrassment-Cases-Reported": 25
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 6.2,
+            "Domestic_Violence-Cases-Reported": 1775,
+            "Kidnapping": 2.21,
+            "Kidnapping-Cases-Reported": 633,
+            "Rape": 1.95,
+            "Rape-Cases-Reported": 557,
+            "Sexual_Harrassment": 10.14,
+            "Sexual_Harrassment-Cases-Reported": 2903
+        },
+        "Tripura": {
+            "Domestic_Violence": 18.03,
+            "Domestic_Violence-Cases-Reported": 267,
+            "Kidnapping": 1.96,
+            "Kidnapping-Cases-Reported": 29,
+            "Rape": 7.7,
+            "Rape-Cases-Reported": 114,
+            "Sexual_Harrassment": 8.58,
+            "Sexual_Harrassment-Cases-Reported": 127
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 5.03,
+            "Domestic_Violence-Cases-Reported": 3948,
+            "Kidnapping": 1.91,
+            "Kidnapping-Cases-Reported": 1499,
+            "Rape": 1.16,
+            "Rape-Cases-Reported": 911,
+            "Sexual_Harrassment": 7.73,
+            "Sexual_Harrassment-Cases-Reported": 6068
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 10.32,
+            "Domestic_Violence-Cases-Reported": 410,
+            "Kidnapping": 3.37,
+            "Kidnapping-Cases-Reported": 134,
+            "Rape": 2.69,
+            "Rape-Cases-Reported": 107,
+            "Sexual_Harrassment": 5.89,
+            "Sexual_Harrassment-Cases-Reported": 234
+        },
+        "West Bengal": {
+            "Domestic_Violence": 14.16,
+            "Domestic_Violence-Cases-Reported": 5277,
+            "Kidnapping": 2.15,
+            "Kidnapping-Cases-Reported": 802,
+            "Rape": 2.69,
+            "Rape-Cases-Reported": 1002,
+            "Sexual_Harrassment": 3.37,
+            "Sexual_Harrassment-Cases-Reported": 1257
+        }
+    },
+    "2004": {
+        "A & N Islands": {
+            "Domestic_Violence": 2.92,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 1.75,
+            "Kidnapping-Cases-Reported": 3,
+            "Rape": 5.85,
+            "Rape-Cases-Reported": 10,
+            "Sexual_Harrassment": 5.26,
+            "Sexual_Harrassment-Cases-Reported": 9
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 25.08,
+            "Domestic_Violence-Cases-Reported": 8900,
+            "Kidnapping": 2.91,
+            "Kidnapping-Cases-Reported": 1032,
+            "Rape": 2.86,
+            "Rape-Cases-Reported": 1016,
+            "Sexual_Harrassment": 17.27,
+            "Sexual_Harrassment-Cases-Reported": 6127
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 0.78,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 7.99,
+            "Kidnapping-Cases-Reported": 41,
+            "Rape": 8.19,
+            "Rape-Cases-Reported": 42,
+            "Sexual_Harrassment": 11.89,
+            "Sexual_Harrassment-Cases-Reported": 61
+        },
+        "Assam": {
+            "Domestic_Violence": 15.9,
+            "Domestic_Violence-Cases-Reported": 2019,
+            "Kidnapping": 12.23,
+            "Kidnapping-Cases-Reported": 1552,
+            "Rape": 9.22,
+            "Rape-Cases-Reported": 1171,
+            "Sexual_Harrassment": 7.04,
+            "Sexual_Harrassment-Cases-Reported": 894
+        },
+        "Bihar": {
+            "Domestic_Violence": 9.33,
+            "Domestic_Violence-Cases-Reported": 3708,
+            "Kidnapping": 2.6,
+            "Kidnapping-Cases-Reported": 1032,
+            "Rape": 3.5,
+            "Rape-Cases-Reported": 1390,
+            "Sexual_Harrassment": 1.8,
+            "Sexual_Harrassment-Cases-Reported": 717
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 17.91,
+            "Domestic_Violence-Cases-Reported": 79,
+            "Kidnapping": 9.75,
+            "Kidnapping-Cases-Reported": 43,
+            "Rape": 4.31,
+            "Rape-Cases-Reported": 19,
+            "Sexual_Harrassment": 8.62,
+            "Sexual_Harrassment-Cases-Reported": 38
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 8.15,
+            "Domestic_Violence-Cases-Reported": 812,
+            "Kidnapping": 1.75,
+            "Kidnapping-Cases-Reported": 174,
+            "Rape": 9.72,
+            "Rape-Cases-Reported": 969,
+            "Sexual_Harrassment": 17.98,
+            "Sexual_Harrassment-Cases-Reported": 1792
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 2.78,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 6.48,
+            "Kidnapping-Cases-Reported": 7,
+            "Rape": 6.48,
+            "Rape-Cases-Reported": 7,
+            "Sexual_Harrassment": 4.63,
+            "Sexual_Harrassment-Cases-Reported": 5
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 5.23,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 1.31,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 1.31,
+            "Sexual_Harrassment-Cases-Reported": 1
+        },
+        "Delhi": {
+            "Domestic_Violence": 20.07,
+            "Domestic_Violence-Cases-Reported": 1380,
+            "Kidnapping": 12.81,
+            "Kidnapping-Cases-Reported": 881,
+            "Rape": 8.01,
+            "Rape-Cases-Reported": 551,
+            "Sexual_Harrassment": 10.63,
+            "Sexual_Harrassment-Cases-Reported": 731
+        },
+        "Goa": {
+            "Domestic_Violence": 2.87,
+            "Domestic_Violence-Cases-Reported": 19,
+            "Kidnapping": 1.51,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 5.59,
+            "Rape-Cases-Reported": 37,
+            "Sexual_Harrassment": 5.74,
+            "Sexual_Harrassment-Cases-Reported": 38
+        },
+        "Gujarat": {
+            "Domestic_Violence": 16.68,
+            "Domestic_Violence-Cases-Reported": 4013,
+            "Kidnapping": 3.76,
+            "Kidnapping-Cases-Reported": 905,
+            "Rape": 1.41,
+            "Rape-Cases-Reported": 339,
+            "Sexual_Harrassment": 3.83,
+            "Sexual_Harrassment-Cases-Reported": 921
+        },
+        "Haryana": {
+            "Domestic_Violence": 22.57,
+            "Domestic_Violence-Cases-Reported": 2277,
+            "Kidnapping": 2.89,
+            "Kidnapping-Cases-Reported": 292,
+            "Rape": 3.83,
+            "Rape-Cases-Reported": 386,
+            "Sexual_Harrassment": 12.42,
+            "Sexual_Harrassment-Cases-Reported": 1253
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 9.14,
+            "Domestic_Violence-Cases-Reported": 260,
+            "Kidnapping": 3.48,
+            "Kidnapping-Cases-Reported": 99,
+            "Rape": 5.38,
+            "Rape-Cases-Reported": 153,
+            "Sexual_Harrassment": 10.55,
+            "Sexual_Harrassment-Cases-Reported": 300
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 1.83,
+            "Domestic_Violence-Cases-Reported": 91,
+            "Kidnapping": 12.72,
+            "Kidnapping-Cases-Reported": 632,
+            "Rape": 4.39,
+            "Rape-Cases-Reported": 218,
+            "Sexual_Harrassment": 25.24,
+            "Sexual_Harrassment-Cases-Reported": 1254
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 6.74,
+            "Domestic_Violence-Cases-Reported": 863,
+            "Kidnapping": 1.67,
+            "Kidnapping-Cases-Reported": 214,
+            "Rape": 6.23,
+            "Rape-Cases-Reported": 797,
+            "Sexual_Harrassment": 3.23,
+            "Sexual_Harrassment-Cases-Reported": 414
+        },
+        "Karnataka": {
+            "Domestic_Violence": 7.46,
+            "Domestic_Violence-Cases-Reported": 1847,
+            "Kidnapping": 1.15,
+            "Kidnapping-Cases-Reported": 286,
+            "Rape": 1.17,
+            "Rape-Cases-Reported": 291,
+            "Sexual_Harrassment": 6.02,
+            "Sexual_Harrassment-Cases-Reported": 1492
+        },
+        "Kerala": {
+            "Domestic_Violence": 21.92,
+            "Domestic_Violence-Cases-Reported": 3253,
+            "Kidnapping": 0.96,
+            "Kidnapping-Cases-Reported": 142,
+            "Rape": 3.23,
+            "Rape-Cases-Reported": 480,
+            "Sexual_Harrassment": 16.12,
+            "Sexual_Harrassment-Cases-Reported": 2393
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 3.7,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 14.39,
+            "Domestic_Violence-Cases-Reported": 4187,
+            "Kidnapping": 2.01,
+            "Kidnapping-Cases-Reported": 584,
+            "Rape": 9.88,
+            "Rape-Cases-Reported": 2875,
+            "Sexual_Harrassment": 25.75,
+            "Sexual_Harrassment-Cases-Reported": 7494
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 13.02,
+            "Domestic_Violence-Cases-Reported": 5960,
+            "Kidnapping": 1.72,
+            "Kidnapping-Cases-Reported": 787,
+            "Rape": 3.03,
+            "Rape-Cases-Reported": 1388,
+            "Sexual_Harrassment": 8.07,
+            "Sexual_Harrassment-Cases-Reported": 3693
+        },
+        "Manipur": {
+            "Domestic_Violence": 0.18,
+            "Domestic_Violence-Cases-Reported": 2,
+            "Kidnapping": 6.29,
+            "Kidnapping-Cases-Reported": 71,
+            "Rape": 2.74,
+            "Rape-Cases-Reported": 31,
+            "Sexual_Harrassment": 2.66,
+            "Sexual_Harrassment-Cases-Reported": 30
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 0.64,
+            "Domestic_Violence-Cases-Reported": 7,
+            "Kidnapping": 1.65,
+            "Kidnapping-Cases-Reported": 18,
+            "Rape": 4.96,
+            "Rape-Cases-Reported": 54,
+            "Sexual_Harrassment": 3.12,
+            "Sexual_Harrassment-Cases-Reported": 34
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 4.73,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 15.6,
+            "Sexual_Harrassment-Cases-Reported": 66
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.42,
+            "Kidnapping-Cases-Reported": 4,
+            "Rape": 1.9,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 0.42,
+            "Sexual_Harrassment-Cases-Reported": 4
+        },
+        "Orissa": {
+            "Domestic_Violence": 8.77,
+            "Domestic_Violence-Cases-Reported": 1511,
+            "Kidnapping": 2.45,
+            "Kidnapping-Cases-Reported": 423,
+            "Rape": 4.47,
+            "Rape-Cases-Reported": 770,
+            "Sexual_Harrassment": 11.5,
+            "Sexual_Harrassment-Cases-Reported": 1981
+        },
+        "Puducherry": {
+            "Domestic_Violence": 1.74,
+            "Domestic_Violence-Cases-Reported": 8,
+            "Kidnapping": 1.74,
+            "Kidnapping-Cases-Reported": 8,
+            "Rape": 0.87,
+            "Rape-Cases-Reported": 4,
+            "Sexual_Harrassment": 17.43,
+            "Sexual_Harrassment-Cases-Reported": 80
+        },
+        "Punjab": {
+            "Domestic_Violence": 7.98,
+            "Domestic_Violence-Cases-Reported": 914,
+            "Kidnapping": 2.72,
+            "Kidnapping-Cases-Reported": 311,
+            "Rape": 3.41,
+            "Rape-Cases-Reported": 390,
+            "Sexual_Harrassment": 2.61,
+            "Sexual_Harrassment-Cases-Reported": 299
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 26.3,
+            "Domestic_Violence-Cases-Reported": 7160,
+            "Kidnapping": 6.91,
+            "Kidnapping-Cases-Reported": 1882,
+            "Rape": 3.81,
+            "Rape-Cases-Reported": 1038,
+            "Sexual_Harrassment": 10.53,
+            "Sexual_Harrassment-Cases-Reported": 2866
+        },
+        "Sikkim": {
+            "Domestic_Violence": 0.39,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 1.56,
+            "Kidnapping-Cases-Reported": 4,
+            "Rape": 1.17,
+            "Rape-Cases-Reported": 3,
+            "Sexual_Harrassment": 15.59,
+            "Sexual_Harrassment-Cases-Reported": 40
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 5.75,
+            "Domestic_Violence-Cases-Reported": 1662,
+            "Kidnapping": 2.39,
+            "Kidnapping-Cases-Reported": 692,
+            "Rape": 2.14,
+            "Rape-Cases-Reported": 618,
+            "Sexual_Harrassment": 10.18,
+            "Sexual_Harrassment-Cases-Reported": 2942
+        },
+        "Tripura": {
+            "Domestic_Violence": 21.42,
+            "Domestic_Violence-Cases-Reported": 322,
+            "Kidnapping": 3.59,
+            "Kidnapping-Cases-Reported": 54,
+            "Rape": 10.65,
+            "Rape-Cases-Reported": 160,
+            "Sexual_Harrassment": 8.92,
+            "Sexual_Harrassment-Cases-Reported": 134
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 8.31,
+            "Domestic_Violence-Cases-Reported": 6658,
+            "Kidnapping": 2.91,
+            "Kidnapping-Cases-Reported": 2327,
+            "Rape": 1.74,
+            "Rape-Cases-Reported": 1397,
+            "Sexual_Harrassment": 5.72,
+            "Sexual_Harrassment-Cases-Reported": 4582
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 12.06,
+            "Domestic_Violence-Cases-Reported": 487,
+            "Kidnapping": 3.15,
+            "Kidnapping-Cases-Reported": 127,
+            "Rape": 2.85,
+            "Rape-Cases-Reported": 115,
+            "Sexual_Harrassment": 6.27,
+            "Sexual_Harrassment-Cases-Reported": 253
+        },
+        "West Bengal": {
+            "Domestic_Violence": 17.81,
+            "Domestic_Violence-Cases-Reported": 6730,
+            "Kidnapping": 2.73,
+            "Kidnapping-Cases-Reported": 1030,
+            "Rape": 3.9,
+            "Rape-Cases-Reported": 1475,
+            "Sexual_Harrassment": 4.31,
+            "Sexual_Harrassment-Cases-Reported": 1630
+        }
+    },
+    "2005": {
+        "A & N Islands": {
+            "Domestic_Violence": 2.85,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 0.57,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 2.28,
+            "Rape-Cases-Reported": 4,
+            "Sexual_Harrassment": 6.84,
+            "Sexual_Harrassment-Cases-Reported": 12
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 25.45,
+            "Domestic_Violence-Cases-Reported": 9139,
+            "Kidnapping": 2.78,
+            "Kidnapping-Cases-Reported": 998,
+            "Rape": 2.6,
+            "Rape-Cases-Reported": 935,
+            "Sexual_Harrassment": 16.99,
+            "Sexual_Harrassment-Cases-Reported": 6103
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 1.72,
+            "Domestic_Violence-Cases-Reported": 9,
+            "Kidnapping": 7.47,
+            "Kidnapping-Cases-Reported": 39,
+            "Rape": 6.7,
+            "Rape-Cases-Reported": 35,
+            "Sexual_Harrassment": 12.84,
+            "Sexual_Harrassment-Cases-Reported": 67
+        },
+        "Assam": {
+            "Domestic_Violence": 17.85,
+            "Domestic_Violence-Cases-Reported": 2305,
+            "Kidnapping": 11.3,
+            "Kidnapping-Cases-Reported": 1459,
+            "Rape": 9.59,
+            "Rape-Cases-Reported": 1238,
+            "Sexual_Harrassment": 7.11,
+            "Sexual_Harrassment-Cases-Reported": 918
+        },
+        "Bihar": {
+            "Domestic_Violence": 6.4,
+            "Domestic_Violence-Cases-Reported": 2588,
+            "Kidnapping": 2.48,
+            "Kidnapping-Cases-Reported": 1003,
+            "Rape": 2.84,
+            "Rape-Cases-Reported": 1147,
+            "Sexual_Harrassment": 1.15,
+            "Sexual_Harrassment-Cases-Reported": 464
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 17.33,
+            "Domestic_Violence-Cases-Reported": 78,
+            "Kidnapping": 10.0,
+            "Kidnapping-Cases-Reported": 45,
+            "Rape": 7.33,
+            "Rape-Cases-Reported": 33,
+            "Sexual_Harrassment": 8.89,
+            "Sexual_Harrassment-Cases-Reported": 40
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 8.19,
+            "Domestic_Violence-Cases-Reported": 832,
+            "Kidnapping": 1.81,
+            "Kidnapping-Cases-Reported": 184,
+            "Rape": 9.74,
+            "Rape-Cases-Reported": 990,
+            "Sexual_Harrassment": 15.57,
+            "Sexual_Harrassment-Cases-Reported": 1582
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 4.63,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 8.33,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 4.63,
+            "Rape-Cases-Reported": 5,
+            "Sexual_Harrassment": 4.63,
+            "Sexual_Harrassment-Cases-Reported": 5
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 4.94,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 2.47,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 2.47,
+            "Rape-Cases-Reported": 2,
+            "Sexual_Harrassment": 1.23,
+            "Sexual_Harrassment-Cases-Reported": 1
+        },
+        "Delhi": {
+            "Domestic_Violence": 20.3,
+            "Domestic_Violence-Cases-Reported": 1438,
+            "Kidnapping": 15.63,
+            "Kidnapping-Cases-Reported": 1107,
+            "Rape": 9.29,
+            "Rape-Cases-Reported": 658,
+            "Sexual_Harrassment": 13.93,
+            "Sexual_Harrassment-Cases-Reported": 987
+        },
+        "Goa": {
+            "Domestic_Violence": 1.91,
+            "Domestic_Violence-Cases-Reported": 13,
+            "Kidnapping": 1.77,
+            "Kidnapping-Cases-Reported": 12,
+            "Rape": 2.94,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 5.59,
+            "Sexual_Harrassment-Cases-Reported": 38
+        },
+        "Gujarat": {
+            "Domestic_Violence": 16.94,
+            "Domestic_Violence-Cases-Reported": 4138,
+            "Kidnapping": 3.75,
+            "Kidnapping-Cases-Reported": 916,
+            "Rape": 1.33,
+            "Rape-Cases-Reported": 324,
+            "Sexual_Harrassment": 3.71,
+            "Sexual_Harrassment-Cases-Reported": 906
+        },
+        "Haryana": {
+            "Domestic_Violence": 22.3,
+            "Domestic_Violence-Cases-Reported": 2287,
+            "Kidnapping": 3.35,
+            "Kidnapping-Cases-Reported": 344,
+            "Rape": 4.5,
+            "Rape-Cases-Reported": 461,
+            "Sexual_Harrassment": 9.53,
+            "Sexual_Harrassment-Cases-Reported": 977
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 8.01,
+            "Domestic_Violence-Cases-Reported": 230,
+            "Kidnapping": 3.55,
+            "Kidnapping-Cases-Reported": 102,
+            "Rape": 4.91,
+            "Rape-Cases-Reported": 141,
+            "Sexual_Harrassment": 10.97,
+            "Sexual_Harrassment-Cases-Reported": 315
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 1.58,
+            "Domestic_Violence-Cases-Reported": 81,
+            "Kidnapping": 12.86,
+            "Kidnapping-Cases-Reported": 658,
+            "Rape": 3.93,
+            "Rape-Cases-Reported": 201,
+            "Sexual_Harrassment": 23.47,
+            "Sexual_Harrassment-Cases-Reported": 1201
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 6.52,
+            "Domestic_Violence-Cases-Reported": 847,
+            "Kidnapping": 2.21,
+            "Kidnapping-Cases-Reported": 287,
+            "Rape": 5.79,
+            "Rape-Cases-Reported": 753,
+            "Sexual_Harrassment": 2.53,
+            "Sexual_Harrassment-Cases-Reported": 329
+        },
+        "Karnataka": {
+            "Domestic_Violence": 8.55,
+            "Domestic_Violence-Cases-Reported": 2144,
+            "Kidnapping": 1.24,
+            "Kidnapping-Cases-Reported": 312,
+            "Rape": 1.37,
+            "Rape-Cases-Reported": 343,
+            "Sexual_Harrassment": 6.61,
+            "Sexual_Harrassment-Cases-Reported": 1656
+        },
+        "Kerala": {
+            "Domestic_Violence": 22.02,
+            "Domestic_Violence-Cases-Reported": 3304,
+            "Kidnapping": 0.86,
+            "Kidnapping-Cases-Reported": 129,
+            "Rape": 3.19,
+            "Rape-Cases-Reported": 478,
+            "Sexual_Harrassment": 16.76,
+            "Sexual_Harrassment-Cases-Reported": 2514
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 12.56,
+            "Domestic_Violence-Cases-Reported": 3728,
+            "Kidnapping": 2.05,
+            "Kidnapping-Cases-Reported": 607,
+            "Rape": 9.84,
+            "Rape-Cases-Reported": 2921,
+            "Sexual_Harrassment": 24.32,
+            "Sexual_Harrassment-Cases-Reported": 7218
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 14.16,
+            "Domestic_Violence-Cases-Reported": 6574,
+            "Kidnapping": 1.83,
+            "Kidnapping-Cases-Reported": 851,
+            "Rape": 3.33,
+            "Rape-Cases-Reported": 1545,
+            "Sexual_Harrassment": 8.93,
+            "Sexual_Harrassment-Cases-Reported": 4147
+        },
+        "Manipur": {
+            "Domestic_Violence": 1.75,
+            "Domestic_Violence-Cases-Reported": 20,
+            "Kidnapping": 6.04,
+            "Kidnapping-Cases-Reported": 69,
+            "Rape": 2.19,
+            "Rape-Cases-Reported": 25,
+            "Sexual_Harrassment": 2.19,
+            "Sexual_Harrassment-Cases-Reported": 25
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 0.36,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 1.72,
+            "Kidnapping-Cases-Reported": 19,
+            "Rape": 5.71,
+            "Rape-Cases-Reported": 63,
+            "Sexual_Harrassment": 3.99,
+            "Sexual_Harrassment-Cases-Reported": 44
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.94,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 8.65,
+            "Rape-Cases-Reported": 37,
+            "Sexual_Harrassment": 12.4,
+            "Sexual_Harrassment-Cases-Reported": 53
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.94,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 1.78,
+            "Rape-Cases-Reported": 17,
+            "Sexual_Harrassment": 0.73,
+            "Sexual_Harrassment-Cases-Reported": 7
+        },
+        "Orissa": {
+            "Domestic_Violence": 11.5,
+            "Domestic_Violence-Cases-Reported": 2005,
+            "Kidnapping": 3.14,
+            "Kidnapping-Cases-Reported": 547,
+            "Rape": 4.58,
+            "Rape-Cases-Reported": 799,
+            "Sexual_Harrassment": 13.89,
+            "Sexual_Harrassment-Cases-Reported": 2422
+        },
+        "Puducherry": {
+            "Domestic_Violence": 2.16,
+            "Domestic_Violence-Cases-Reported": 10,
+            "Kidnapping": 0.65,
+            "Kidnapping-Cases-Reported": 3,
+            "Rape": 1.29,
+            "Rape-Cases-Reported": 6,
+            "Sexual_Harrassment": 18.55,
+            "Sexual_Harrassment-Cases-Reported": 86
+        },
+        "Punjab": {
+            "Domestic_Violence": 7.14,
+            "Domestic_Violence-Cases-Reported": 828,
+            "Kidnapping": 2.84,
+            "Kidnapping-Cases-Reported": 329,
+            "Rape": 3.43,
+            "Rape-Cases-Reported": 398,
+            "Sexual_Harrassment": 3.03,
+            "Sexual_Harrassment-Cases-Reported": 351
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 22.91,
+            "Domestic_Violence-Cases-Reported": 6358,
+            "Kidnapping": 5.58,
+            "Kidnapping-Cases-Reported": 1549,
+            "Rape": 3.58,
+            "Rape-Cases-Reported": 993,
+            "Sexual_Harrassment": 9.12,
+            "Sexual_Harrassment-Cases-Reported": 2531
+        },
+        "Sikkim": {
+            "Domestic_Violence": 1.53,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.77,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 6.9,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 14.56,
+            "Sexual_Harrassment-Cases-Reported": 38
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 6.39,
+            "Domestic_Violence-Cases-Reported": 1865,
+            "Kidnapping": 2.68,
+            "Kidnapping-Cases-Reported": 783,
+            "Rape": 1.96,
+            "Rape-Cases-Reported": 571,
+            "Sexual_Harrassment": 8.32,
+            "Sexual_Harrassment-Cases-Reported": 2429
+        },
+        "Tripura": {
+            "Domestic_Violence": 31.01,
+            "Domestic_Violence-Cases-Reported": 473,
+            "Kidnapping": 2.82,
+            "Kidnapping-Cases-Reported": 43,
+            "Rape": 10.62,
+            "Rape-Cases-Reported": 162,
+            "Sexual_Harrassment": 10.62,
+            "Sexual_Harrassment-Cases-Reported": 162
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 7.43,
+            "Domestic_Violence-Cases-Reported": 6069,
+            "Kidnapping": 2.76,
+            "Kidnapping-Cases-Reported": 2256,
+            "Rape": 1.49,
+            "Rape-Cases-Reported": 1217,
+            "Sexual_Harrassment": 5.77,
+            "Sexual_Harrassment-Cases-Reported": 4716
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 8.16,
+            "Domestic_Violence-Cases-Reported": 335,
+            "Kidnapping": 3.05,
+            "Kidnapping-Cases-Reported": 125,
+            "Rape": 3.24,
+            "Rape-Cases-Reported": 133,
+            "Sexual_Harrassment": 4.61,
+            "Sexual_Harrassment-Cases-Reported": 189
+        },
+        "West Bengal": {
+            "Domestic_Violence": 19.29,
+            "Domestic_Violence-Cases-Reported": 7382,
+            "Kidnapping": 2.87,
+            "Kidnapping-Cases-Reported": 1100,
+            "Rape": 4.4,
+            "Rape-Cases-Reported": 1686,
+            "Sexual_Harrassment": 4.25,
+            "Sexual_Harrassment-Cases-Reported": 1626
+        }
+    },
+    "2006": {
+        "A & N Islands": {
+            "Domestic_Violence": 3.89,
+            "Domestic_Violence-Cases-Reported": 7,
+            "Kidnapping": 2.78,
+            "Kidnapping-Cases-Reported": 5,
+            "Rape": 3.33,
+            "Rape-Cases-Reported": 6,
+            "Sexual_Harrassment": 10.0,
+            "Sexual_Harrassment-Cases-Reported": 18
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 26.66,
+            "Domestic_Violence-Cases-Reported": 9683,
+            "Kidnapping": 3.66,
+            "Kidnapping-Cases-Reported": 1329,
+            "Rape": 2.89,
+            "Rape-Cases-Reported": 1049,
+            "Sexual_Harrassment": 19.12,
+            "Sexual_Harrassment-Cases-Reported": 6945
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.85,
+            "Domestic_Violence-Cases-Reported": 15,
+            "Kidnapping": 9.69,
+            "Kidnapping-Cases-Reported": 51,
+            "Rape": 7.03,
+            "Rape-Cases-Reported": 37,
+            "Sexual_Harrassment": 12.35,
+            "Sexual_Harrassment-Cases-Reported": 65
+        },
+        "Assam": {
+            "Domestic_Violence": 20.22,
+            "Domestic_Violence-Cases-Reported": 2653,
+            "Kidnapping": 11.77,
+            "Kidnapping-Cases-Reported": 1544,
+            "Rape": 9.48,
+            "Rape-Cases-Reported": 1244,
+            "Sexual_Harrassment": 9.91,
+            "Sexual_Harrassment-Cases-Reported": 1300
+        },
+        "Bihar": {
+            "Domestic_Violence": 7.0,
+            "Domestic_Violence-Cases-Reported": 2877,
+            "Kidnapping": 2.74,
+            "Kidnapping-Cases-Reported": 1126,
+            "Rape": 3.0,
+            "Rape-Cases-Reported": 1232,
+            "Sexual_Harrassment": 1.42,
+            "Sexual_Harrassment-Cases-Reported": 583
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 24.4,
+            "Domestic_Violence-Cases-Reported": 112,
+            "Kidnapping": 12.42,
+            "Kidnapping-Cases-Reported": 57,
+            "Rape": 4.14,
+            "Rape-Cases-Reported": 19,
+            "Sexual_Harrassment": 7.19,
+            "Sexual_Harrassment-Cases-Reported": 33
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 7.93,
+            "Domestic_Violence-Cases-Reported": 820,
+            "Kidnapping": 1.73,
+            "Kidnapping-Cases-Reported": 179,
+            "Rape": 9.62,
+            "Rape-Cases-Reported": 995,
+            "Sexual_Harrassment": 16.83,
+            "Sexual_Harrassment-Cases-Reported": 1741
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 5.33,
+            "Domestic_Violence-Cases-Reported": 6,
+            "Kidnapping": 12.44,
+            "Kidnapping-Cases-Reported": 14,
+            "Rape": 5.33,
+            "Rape-Cases-Reported": 6,
+            "Sexual_Harrassment": 5.33,
+            "Sexual_Harrassment-Cases-Reported": 6
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 2.47,
+            "Domestic_Violence-Cases-Reported": 2,
+            "Kidnapping": 1.23,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 3.7,
+            "Rape-Cases-Reported": 3,
+            "Sexual_Harrassment": 2.47,
+            "Sexual_Harrassment-Cases-Reported": 2
+        },
+        "Delhi": {
+            "Domestic_Violence": 25.54,
+            "Domestic_Violence-Cases-Reported": 1865,
+            "Kidnapping": 14.6,
+            "Kidnapping-Cases-Reported": 1066,
+            "Rape": 8.53,
+            "Rape-Cases-Reported": 623,
+            "Sexual_Harrassment": 11.8,
+            "Sexual_Harrassment-Cases-Reported": 862
+        },
+        "Goa": {
+            "Domestic_Violence": 2.01,
+            "Domestic_Violence-Cases-Reported": 14,
+            "Kidnapping": 1.43,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 3.01,
+            "Rape-Cases-Reported": 21,
+            "Sexual_Harrassment": 3.58,
+            "Sexual_Harrassment-Cases-Reported": 25
+        },
+        "Gujarat": {
+            "Domestic_Violence": 20.28,
+            "Domestic_Violence-Cases-Reported": 5027,
+            "Kidnapping": 3.81,
+            "Kidnapping-Cases-Reported": 945,
+            "Rape": 1.43,
+            "Rape-Cases-Reported": 354,
+            "Sexual_Harrassment": 3.53,
+            "Sexual_Harrassment-Cases-Reported": 874
+        },
+        "Haryana": {
+            "Domestic_Violence": 24.07,
+            "Domestic_Violence-Cases-Reported": 2509,
+            "Kidnapping": 4.14,
+            "Kidnapping-Cases-Reported": 431,
+            "Rape": 5.83,
+            "Rape-Cases-Reported": 608,
+            "Sexual_Harrassment": 9.37,
+            "Sexual_Harrassment-Cases-Reported": 977
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 9.03,
+            "Domestic_Violence-Cases-Reported": 262,
+            "Kidnapping": 3.76,
+            "Kidnapping-Cases-Reported": 109,
+            "Rape": 3.89,
+            "Rape-Cases-Reported": 113,
+            "Sexual_Harrassment": 10.54,
+            "Sexual_Harrassment-Cases-Reported": 306
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 2.75,
+            "Domestic_Violence-Cases-Reported": 145,
+            "Kidnapping": 13.7,
+            "Kidnapping-Cases-Reported": 723,
+            "Rape": 4.74,
+            "Rape-Cases-Reported": 250,
+            "Sexual_Harrassment": 24.76,
+            "Sexual_Harrassment-Cases-Reported": 1307
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 7.2,
+            "Domestic_Violence-Cases-Reported": 949,
+            "Kidnapping": 3.15,
+            "Kidnapping-Cases-Reported": 415,
+            "Rape": 6.06,
+            "Rape-Cases-Reported": 799,
+            "Sexual_Harrassment": 3.47,
+            "Sexual_Harrassment-Cases-Reported": 458
+        },
+        "Karnataka": {
+            "Domestic_Violence": 9.36,
+            "Domestic_Violence-Cases-Reported": 2373,
+            "Kidnapping": 1.29,
+            "Kidnapping-Cases-Reported": 328,
+            "Rape": 1.58,
+            "Rape-Cases-Reported": 400,
+            "Sexual_Harrassment": 6.79,
+            "Sexual_Harrassment-Cases-Reported": 1721
+        },
+        "Kerala": {
+            "Domestic_Violence": 24.63,
+            "Domestic_Violence-Cases-Reported": 3733,
+            "Kidnapping": 1.33,
+            "Kidnapping-Cases-Reported": 202,
+            "Rape": 3.97,
+            "Rape-Cases-Reported": 601,
+            "Sexual_Harrassment": 18.24,
+            "Sexual_Harrassment-Cases-Reported": 2765
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 3.17,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 12.41,
+            "Domestic_Violence-Cases-Reported": 3753,
+            "Kidnapping": 2.04,
+            "Kidnapping-Cases-Reported": 617,
+            "Rape": 9.59,
+            "Rape-Cases-Reported": 2900,
+            "Sexual_Harrassment": 23.16,
+            "Sexual_Harrassment-Cases-Reported": 7005
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 15.14,
+            "Domestic_Violence-Cases-Reported": 7125,
+            "Kidnapping": 1.96,
+            "Kidnapping-Cases-Reported": 922,
+            "Rape": 3.19,
+            "Rape-Cases-Reported": 1500,
+            "Sexual_Harrassment": 9.48,
+            "Sexual_Harrassment-Cases-Reported": 4463
+        },
+        "Manipur": {
+            "Domestic_Violence": 0.86,
+            "Domestic_Violence-Cases-Reported": 10,
+            "Kidnapping": 6.83,
+            "Kidnapping-Cases-Reported": 79,
+            "Rape": 3.46,
+            "Rape-Cases-Reported": 40,
+            "Sexual_Harrassment": 3.63,
+            "Sexual_Harrassment-Cases-Reported": 42
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 1.7,
+            "Domestic_Violence-Cases-Reported": 19,
+            "Kidnapping": 2.24,
+            "Kidnapping-Cases-Reported": 25,
+            "Rape": 6.63,
+            "Rape-Cases-Reported": 74,
+            "Sexual_Harrassment": 5.11,
+            "Sexual_Harrassment-Cases-Reported": 57
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.23,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.23,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 16.67,
+            "Rape-Cases-Reported": 72,
+            "Sexual_Harrassment": 11.81,
+            "Sexual_Harrassment-Cases-Reported": 51
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.31,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 0.31,
+            "Kidnapping-Cases-Reported": 3,
+            "Rape": 2.39,
+            "Rape-Cases-Reported": 23,
+            "Sexual_Harrassment": 0.52,
+            "Sexual_Harrassment-Cases-Reported": 5
+        },
+        "Orissa": {
+            "Domestic_Violence": 6.52,
+            "Domestic_Violence-Cases-Reported": 1151,
+            "Kidnapping": 3.34,
+            "Kidnapping-Cases-Reported": 589,
+            "Rape": 5.58,
+            "Rape-Cases-Reported": 985,
+            "Sexual_Harrassment": 15.09,
+            "Sexual_Harrassment-Cases-Reported": 2662
+        },
+        "Puducherry": {
+            "Domestic_Violence": 4.66,
+            "Domestic_Violence-Cases-Reported": 22,
+            "Kidnapping": 2.75,
+            "Kidnapping-Cases-Reported": 13,
+            "Rape": 1.9,
+            "Rape-Cases-Reported": 9,
+            "Sexual_Harrassment": 20.11,
+            "Sexual_Harrassment-Cases-Reported": 95
+        },
+        "Punjab": {
+            "Domestic_Violence": 7.93,
+            "Domestic_Violence-Cases-Reported": 931,
+            "Kidnapping": 3.58,
+            "Kidnapping-Cases-Reported": 420,
+            "Rape": 3.77,
+            "Rape-Cases-Reported": 442,
+            "Sexual_Harrassment": 3.19,
+            "Sexual_Harrassment-Cases-Reported": 374
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 26.3,
+            "Domestic_Violence-Cases-Reported": 7432,
+            "Kidnapping": 5.51,
+            "Kidnapping-Cases-Reported": 1556,
+            "Rape": 3.84,
+            "Rape-Cases-Reported": 1085,
+            "Sexual_Harrassment": 9.25,
+            "Sexual_Harrassment-Cases-Reported": 2613
+        },
+        "Sikkim": {
+            "Domestic_Violence": 2.3,
+            "Domestic_Violence-Cases-Reported": 6,
+            "Kidnapping": 2.68,
+            "Kidnapping-Cases-Reported": 7,
+            "Rape": 7.66,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 5.36,
+            "Sexual_Harrassment-Cases-Reported": 14
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 4.87,
+            "Domestic_Violence-Cases-Reported": 1435,
+            "Kidnapping": 2.44,
+            "Kidnapping-Cases-Reported": 718,
+            "Rape": 1.55,
+            "Rape-Cases-Reported": 457,
+            "Sexual_Harrassment": 6.9,
+            "Sexual_Harrassment-Cases-Reported": 2031
+        },
+        "Tripura": {
+            "Domestic_Violence": 32.69,
+            "Domestic_Violence-Cases-Reported": 506,
+            "Kidnapping": 4.01,
+            "Kidnapping-Cases-Reported": 62,
+            "Rape": 12.21,
+            "Rape-Cases-Reported": 189,
+            "Sexual_Harrassment": 13.37,
+            "Sexual_Harrassment-Cases-Reported": 207
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 8.41,
+            "Domestic_Violence-Cases-Reported": 7002,
+            "Kidnapping": 3.06,
+            "Kidnapping-Cases-Reported": 2551,
+            "Rape": 1.58,
+            "Rape-Cases-Reported": 1314,
+            "Sexual_Harrassment": 5.78,
+            "Sexual_Harrassment-Cases-Reported": 4810
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 10.51,
+            "Domestic_Violence-Cases-Reported": 438,
+            "Kidnapping": 4.39,
+            "Kidnapping-Cases-Reported": 183,
+            "Rape": 3.53,
+            "Rape-Cases-Reported": 147,
+            "Sexual_Harrassment": 6.38,
+            "Sexual_Harrassment-Cases-Reported": 266
+        },
+        "West Bengal": {
+            "Domestic_Violence": 20.28,
+            "Domestic_Violence-Cases-Reported": 7859,
+            "Kidnapping": 3.1,
+            "Kidnapping-Cases-Reported": 1200,
+            "Rape": 4.47,
+            "Rape-Cases-Reported": 1731,
+            "Sexual_Harrassment": 4.9,
+            "Sexual_Harrassment-Cases-Reported": 1900
+        }
+    },
+    "2007": {
+        "A & N Islands": {
+            "Domestic_Violence": 10.3,
+            "Domestic_Violence-Cases-Reported": 19,
+            "Kidnapping": 4.88,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 1.63,
+            "Rape-Cases-Reported": 3,
+            "Sexual_Harrassment": 12.47,
+            "Sexual_Harrassment-Cases-Reported": 23
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 32.54,
+            "Domestic_Violence-Cases-Reported": 11948,
+            "Kidnapping": 4.26,
+            "Kidnapping-Cases-Reported": 1564,
+            "Rape": 2.91,
+            "Rape-Cases-Reported": 1070,
+            "Sexual_Harrassment": 21.03,
+            "Sexual_Harrassment-Cases-Reported": 7722
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 3.73,
+            "Domestic_Violence-Cases-Reported": 20,
+            "Kidnapping": 8.22,
+            "Kidnapping-Cases-Reported": 44,
+            "Rape": 8.96,
+            "Rape-Cases-Reported": 48,
+            "Sexual_Harrassment": 13.63,
+            "Sexual_Harrassment-Cases-Reported": 73
+        },
+        "Assam": {
+            "Domestic_Violence": 23.26,
+            "Domestic_Violence-Cases-Reported": 3100,
+            "Kidnapping": 11.04,
+            "Kidnapping-Cases-Reported": 1471,
+            "Rape": 10.78,
+            "Rape-Cases-Reported": 1437,
+            "Sexual_Harrassment": 5.99,
+            "Sexual_Harrassment-Cases-Reported": 799
+        },
+        "Bihar": {
+            "Domestic_Violence": 6.72,
+            "Domestic_Violence-Cases-Reported": 2807,
+            "Kidnapping": 3.15,
+            "Kidnapping-Cases-Reported": 1316,
+            "Rape": 3.72,
+            "Rape-Cases-Reported": 1555,
+            "Sexual_Harrassment": 2.07,
+            "Sexual_Harrassment-Cases-Reported": 865
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 23.92,
+            "Domestic_Violence-Cases-Reported": 113,
+            "Kidnapping": 9.74,
+            "Kidnapping-Cases-Reported": 46,
+            "Rape": 4.66,
+            "Rape-Cases-Reported": 22,
+            "Sexual_Harrassment": 9.1,
+            "Sexual_Harrassment-Cases-Reported": 43
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 8.78,
+            "Domestic_Violence-Cases-Reported": 924,
+            "Kidnapping": 1.72,
+            "Kidnapping-Cases-Reported": 181,
+            "Rape": 9.33,
+            "Rape-Cases-Reported": 982,
+            "Sexual_Harrassment": 15.77,
+            "Sexual_Harrassment-Cases-Reported": 1660
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 2.56,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 5.13,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 5.98,
+            "Rape-Cases-Reported": 7,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 4.94,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 1.23,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 1.23,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Delhi": {
+            "Domestic_Violence": 25.57,
+            "Domestic_Violence-Cases-Reported": 1925,
+            "Kidnapping": 15.5,
+            "Kidnapping-Cases-Reported": 1167,
+            "Rape": 7.94,
+            "Rape-Cases-Reported": 598,
+            "Sexual_Harrassment": 13.75,
+            "Sexual_Harrassment-Cases-Reported": 1035
+        },
+        "Goa": {
+            "Domestic_Violence": 2.22,
+            "Domestic_Violence-Cases-Reported": 16,
+            "Kidnapping": 0.97,
+            "Kidnapping-Cases-Reported": 7,
+            "Rape": 2.78,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 3.75,
+            "Sexual_Harrassment-Cases-Reported": 27
+        },
+        "Gujarat": {
+            "Domestic_Violence": 23.34,
+            "Domestic_Violence-Cases-Reported": 5869,
+            "Kidnapping": 4.33,
+            "Kidnapping-Cases-Reported": 1089,
+            "Rape": 1.26,
+            "Rape-Cases-Reported": 316,
+            "Sexual_Harrassment": 3.75,
+            "Sexual_Harrassment-Cases-Reported": 942
+        },
+        "Haryana": {
+            "Domestic_Violence": 25.32,
+            "Domestic_Violence-Cases-Reported": 2681,
+            "Kidnapping": 5.23,
+            "Kidnapping-Cases-Reported": 554,
+            "Rape": 4.61,
+            "Rape-Cases-Reported": 488,
+            "Sexual_Harrassment": 7.8,
+            "Sexual_Harrassment-Cases-Reported": 826
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 11.95,
+            "Domestic_Violence-Cases-Reported": 350,
+            "Kidnapping": 5.12,
+            "Kidnapping-Cases-Reported": 150,
+            "Rape": 5.43,
+            "Rape-Cases-Reported": 159,
+            "Sexual_Harrassment": 12.12,
+            "Sexual_Harrassment-Cases-Reported": 355
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 3.4,
+            "Domestic_Violence-Cases-Reported": 185,
+            "Kidnapping": 12.98,
+            "Kidnapping-Cases-Reported": 707,
+            "Rape": 5.29,
+            "Rape-Cases-Reported": 288,
+            "Sexual_Harrassment": 24.59,
+            "Sexual_Harrassment-Cases-Reported": 1339
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 8.25,
+            "Domestic_Violence-Cases-Reported": 1104,
+            "Kidnapping": 3.99,
+            "Kidnapping-Cases-Reported": 534,
+            "Rape": 6.39,
+            "Rape-Cases-Reported": 855,
+            "Sexual_Harrassment": 2.67,
+            "Sexual_Harrassment-Cases-Reported": 357
+        },
+        "Karnataka": {
+            "Domestic_Violence": 10.76,
+            "Domestic_Violence-Cases-Reported": 2758,
+            "Kidnapping": 1.52,
+            "Kidnapping-Cases-Reported": 390,
+            "Rape": 1.7,
+            "Rape-Cases-Reported": 436,
+            "Sexual_Harrassment": 7.24,
+            "Sexual_Harrassment-Cases-Reported": 1856
+        },
+        "Kerala": {
+            "Domestic_Violence": 26.31,
+            "Domestic_Violence-Cases-Reported": 4026,
+            "Kidnapping": 1.16,
+            "Kidnapping-Cases-Reported": 177,
+            "Rape": 3.35,
+            "Rape-Cases-Reported": 512,
+            "Sexual_Harrassment": 18.86,
+            "Sexual_Harrassment-Cases-Reported": 2886
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 6.35,
+            "Domestic_Violence-Cases-Reported": 2,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 3.17,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 6.35,
+            "Sexual_Harrassment-Cases-Reported": 2
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 13.1,
+            "Domestic_Violence-Cases-Reported": 4036,
+            "Kidnapping": 2.28,
+            "Kidnapping-Cases-Reported": 701,
+            "Rape": 9.77,
+            "Rape-Cases-Reported": 3010,
+            "Sexual_Harrassment": 24.51,
+            "Sexual_Harrassment-Cases-Reported": 7552
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 16.34,
+            "Domestic_Violence-Cases-Reported": 7792,
+            "Kidnapping": 2.03,
+            "Kidnapping-Cases-Reported": 967,
+            "Rape": 3.04,
+            "Rape-Cases-Reported": 1451,
+            "Sexual_Harrassment": 9.11,
+            "Sexual_Harrassment-Cases-Reported": 4345
+        },
+        "Manipur": {
+            "Domestic_Violence": 1.28,
+            "Domestic_Violence-Cases-Reported": 15,
+            "Kidnapping": 7.07,
+            "Kidnapping-Cases-Reported": 83,
+            "Rape": 1.7,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 5.96,
+            "Sexual_Harrassment-Cases-Reported": 70
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 1.85,
+            "Domestic_Violence-Cases-Reported": 21,
+            "Kidnapping": 1.94,
+            "Kidnapping-Cases-Reported": 22,
+            "Rape": 7.23,
+            "Rape-Cases-Reported": 82,
+            "Sexual_Harrassment": 4.06,
+            "Sexual_Harrassment-Cases-Reported": 46
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.46,
+            "Domestic_Violence-Cases-Reported": 2,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 19.01,
+            "Rape-Cases-Reported": 83,
+            "Sexual_Harrassment": 15.12,
+            "Sexual_Harrassment-Cases-Reported": 66
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.61,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 1.33,
+            "Rape-Cases-Reported": 13,
+            "Sexual_Harrassment": 0.92,
+            "Sexual_Harrassment-Cases-Reported": 9
+        },
+        "Orissa": {
+            "Domestic_Violence": 6.67,
+            "Domestic_Violence-Cases-Reported": 1189,
+            "Kidnapping": 3.7,
+            "Kidnapping-Cases-Reported": 660,
+            "Rape": 5.27,
+            "Rape-Cases-Reported": 939,
+            "Sexual_Harrassment": 16.92,
+            "Sexual_Harrassment-Cases-Reported": 3016
+        },
+        "Puducherry": {
+            "Domestic_Violence": 3.98,
+            "Domestic_Violence-Cases-Reported": 19,
+            "Kidnapping": 2.94,
+            "Kidnapping-Cases-Reported": 14,
+            "Rape": 1.89,
+            "Rape-Cases-Reported": 9,
+            "Sexual_Harrassment": 25.37,
+            "Sexual_Harrassment-Cases-Reported": 121
+        },
+        "Punjab": {
+            "Domestic_Violence": 9.3,
+            "Domestic_Violence-Cases-Reported": 1104,
+            "Kidnapping": 4.59,
+            "Kidnapping-Cases-Reported": 545,
+            "Rape": 4.37,
+            "Rape-Cases-Reported": 519,
+            "Sexual_Harrassment": 4.0,
+            "Sexual_Harrassment-Cases-Reported": 475
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 29.93,
+            "Domestic_Violence-Cases-Reported": 8609,
+            "Kidnapping": 5.89,
+            "Kidnapping-Cases-Reported": 1694,
+            "Rape": 4.3,
+            "Rape-Cases-Reported": 1238,
+            "Sexual_Harrassment": 8.71,
+            "Sexual_Harrassment-Cases-Reported": 2505
+        },
+        "Sikkim": {
+            "Domestic_Violence": 2.64,
+            "Domestic_Violence-Cases-Reported": 7,
+            "Kidnapping": 3.39,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 9.04,
+            "Rape-Cases-Reported": 24,
+            "Sexual_Harrassment": 4.9,
+            "Sexual_Harrassment-Cases-Reported": 13
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 7.35,
+            "Domestic_Violence-Cases-Reported": 2184,
+            "Kidnapping": 3.69,
+            "Kidnapping-Cases-Reported": 1097,
+            "Rape": 1.76,
+            "Rape-Cases-Reported": 523,
+            "Sexual_Harrassment": 8.13,
+            "Sexual_Harrassment-Cases-Reported": 2415
+        },
+        "Tripura": {
+            "Domestic_Violence": 37.1,
+            "Domestic_Violence-Cases-Reported": 581,
+            "Kidnapping": 5.17,
+            "Kidnapping-Cases-Reported": 81,
+            "Rape": 10.03,
+            "Rape-Cases-Reported": 157,
+            "Sexual_Harrassment": 15.84,
+            "Sexual_Harrassment-Cases-Reported": 248
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 11.46,
+            "Domestic_Violence-Cases-Reported": 9726,
+            "Kidnapping": 3.96,
+            "Kidnapping-Cases-Reported": 3363,
+            "Rape": 1.94,
+            "Rape-Cases-Reported": 1648,
+            "Sexual_Harrassment": 6.37,
+            "Sexual_Harrassment-Cases-Reported": 5404
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 12.6,
+            "Domestic_Violence-Cases-Reported": 533,
+            "Kidnapping": 5.37,
+            "Kidnapping-Cases-Reported": 227,
+            "Rape": 2.77,
+            "Rape-Cases-Reported": 117,
+            "Sexual_Harrassment": 4.94,
+            "Sexual_Harrassment-Cases-Reported": 209
+        },
+        "West Bengal": {
+            "Domestic_Violence": 26.38,
+            "Domestic_Violence-Cases-Reported": 10351,
+            "Kidnapping": 4.07,
+            "Kidnapping-Cases-Reported": 1595,
+            "Rape": 5.37,
+            "Rape-Cases-Reported": 2106,
+            "Sexual_Harrassment": 6.07,
+            "Sexual_Harrassment-Cases-Reported": 2380
+        }
+    },
+    "2008": {
+        "A & N Islands": {
+            "Domestic_Violence": 14.81,
+            "Domestic_Violence-Cases-Reported": 28,
+            "Kidnapping": 6.88,
+            "Kidnapping-Cases-Reported": 13,
+            "Rape": 6.35,
+            "Rape-Cases-Reported": 12,
+            "Sexual_Harrassment": 14.29,
+            "Sexual_Harrassment-Cases-Reported": 27
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 29.27,
+            "Domestic_Violence-Cases-Reported": 10862,
+            "Kidnapping": 3.76,
+            "Kidnapping-Cases-Reported": 1396,
+            "Rape": 3.39,
+            "Rape-Cases-Reported": 1257,
+            "Sexual_Harrassment": 22.32,
+            "Sexual_Harrassment-Cases-Reported": 8281
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.41,
+            "Domestic_Violence-Cases-Reported": 13,
+            "Kidnapping": 8.7,
+            "Kidnapping-Cases-Reported": 47,
+            "Rape": 7.78,
+            "Rape-Cases-Reported": 42,
+            "Sexual_Harrassment": 13.52,
+            "Sexual_Harrassment-Cases-Reported": 73
+        },
+        "Assam": {
+            "Domestic_Violence": 26.46,
+            "Domestic_Violence-Cases-Reported": 3581,
+            "Kidnapping": 13.22,
+            "Kidnapping-Cases-Reported": 1789,
+            "Rape": 10.62,
+            "Rape-Cases-Reported": 1438,
+            "Sexual_Harrassment": 9.41,
+            "Sexual_Harrassment-Cases-Reported": 1274
+        },
+        "Bihar": {
+            "Domestic_Violence": 7.54,
+            "Domestic_Violence-Cases-Reported": 3202,
+            "Kidnapping": 4.27,
+            "Kidnapping-Cases-Reported": 1811,
+            "Rape": 3.07,
+            "Rape-Cases-Reported": 1302,
+            "Sexual_Harrassment": 2.4,
+            "Sexual_Harrassment-Cases-Reported": 1020
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 10.8,
+            "Domestic_Violence-Cases-Reported": 52,
+            "Kidnapping": 8.72,
+            "Kidnapping-Cases-Reported": 42,
+            "Rape": 4.15,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 4.36,
+            "Sexual_Harrassment-Cases-Reported": 21
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 9.38,
+            "Domestic_Violence-Cases-Reported": 1003,
+            "Kidnapping": 2.02,
+            "Kidnapping-Cases-Reported": 216,
+            "Rape": 9.14,
+            "Rape-Cases-Reported": 978,
+            "Sexual_Harrassment": 16.32,
+            "Sexual_Harrassment-Cases-Reported": 1746
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 3.29,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 9.05,
+            "Kidnapping-Cases-Reported": 11,
+            "Rape": 4.94,
+            "Rape-Cases-Reported": 6,
+            "Sexual_Harrassment": 3.29,
+            "Sexual_Harrassment-Cases-Reported": 4
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 5.85,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 1.17,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 3.51,
+            "Sexual_Harrassment-Cases-Reported": 3
+        },
+        "Delhi": {
+            "Domestic_Violence": 19.53,
+            "Domestic_Violence-Cases-Reported": 1516,
+            "Kidnapping": 14.63,
+            "Kidnapping-Cases-Reported": 1136,
+            "Rape": 6.0,
+            "Rape-Cases-Reported": 466,
+            "Sexual_Harrassment": 9.55,
+            "Sexual_Harrassment-Cases-Reported": 741
+        },
+        "Goa": {
+            "Domestic_Violence": 1.9,
+            "Domestic_Violence-Cases-Reported": 14,
+            "Kidnapping": 3.79,
+            "Kidnapping-Cases-Reported": 28,
+            "Rape": 4.07,
+            "Rape-Cases-Reported": 30,
+            "Sexual_Harrassment": 5.96,
+            "Sexual_Harrassment-Cases-Reported": 44
+        },
+        "Gujarat": {
+            "Domestic_Violence": 24.0,
+            "Domestic_Violence-Cases-Reported": 6121,
+            "Kidnapping": 4.39,
+            "Kidnapping-Cases-Reported": 1119,
+            "Rape": 1.47,
+            "Rape-Cases-Reported": 374,
+            "Sexual_Harrassment": 3.73,
+            "Sexual_Harrassment-Cases-Reported": 950
+        },
+        "Haryana": {
+            "Domestic_Violence": 25.46,
+            "Domestic_Violence-Cases-Reported": 2737,
+            "Kidnapping": 5.99,
+            "Kidnapping-Cases-Reported": 644,
+            "Rape": 5.87,
+            "Rape-Cases-Reported": 631,
+            "Sexual_Harrassment": 9.67,
+            "Sexual_Harrassment-Cases-Reported": 1040
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 11.7,
+            "Domestic_Violence-Cases-Reported": 346,
+            "Kidnapping": 4.63,
+            "Kidnapping-Cases-Reported": 137,
+            "Rape": 5.31,
+            "Rape-Cases-Reported": 157,
+            "Sexual_Harrassment": 11.36,
+            "Sexual_Harrassment-Cases-Reported": 336
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 3.25,
+            "Domestic_Violence-Cases-Reported": 183,
+            "Kidnapping": 11.66,
+            "Kidnapping-Cases-Reported": 656,
+            "Rape": 3.89,
+            "Rape-Cases-Reported": 219,
+            "Sexual_Harrassment": 21.88,
+            "Sexual_Harrassment-Cases-Reported": 1231
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 8.24,
+            "Domestic_Violence-Cases-Reported": 1117,
+            "Kidnapping": 3.97,
+            "Kidnapping-Cases-Reported": 538,
+            "Rape": 5.83,
+            "Rape-Cases-Reported": 791,
+            "Sexual_Harrassment": 2.17,
+            "Sexual_Harrassment-Cases-Reported": 294
+        },
+        "Karnataka": {
+            "Domestic_Violence": 11.18,
+            "Domestic_Violence-Cases-Reported": 2897,
+            "Kidnapping": 1.57,
+            "Kidnapping-Cases-Reported": 406,
+            "Rape": 1.72,
+            "Rape-Cases-Reported": 446,
+            "Sexual_Harrassment": 7.71,
+            "Sexual_Harrassment-Cases-Reported": 1998
+        },
+        "Kerala": {
+            "Domestic_Violence": 26.98,
+            "Domestic_Violence-Cases-Reported": 4169,
+            "Kidnapping": 1.07,
+            "Kidnapping-Cases-Reported": 166,
+            "Rape": 3.68,
+            "Rape-Cases-Reported": 568,
+            "Sexual_Harrassment": 19.43,
+            "Sexual_Harrassment-Cases-Reported": 3003
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 3.17,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 3.17,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 6.35,
+            "Rape-Cases-Reported": 2,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 12.72,
+            "Domestic_Violence-Cases-Reported": 3990,
+            "Kidnapping": 2.35,
+            "Kidnapping-Cases-Reported": 736,
+            "Rape": 9.37,
+            "Rape-Cases-Reported": 2937,
+            "Sexual_Harrassment": 22.97,
+            "Sexual_Harrassment-Cases-Reported": 7203
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 17.01,
+            "Domestic_Violence-Cases-Reported": 8219,
+            "Kidnapping": 2.07,
+            "Kidnapping-Cases-Reported": 998,
+            "Rape": 3.23,
+            "Rape-Cases-Reported": 1558,
+            "Sexual_Harrassment": 9.75,
+            "Sexual_Harrassment-Cases-Reported": 4710
+        },
+        "Manipur": {
+            "Domestic_Violence": 2.44,
+            "Domestic_Violence-Cases-Reported": 29,
+            "Kidnapping": 7.32,
+            "Kidnapping-Cases-Reported": 87,
+            "Rape": 3.2,
+            "Rape-Cases-Reported": 38,
+            "Sexual_Harrassment": 4.8,
+            "Sexual_Harrassment-Cases-Reported": 57
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 2.96,
+            "Domestic_Violence-Cases-Reported": 34,
+            "Kidnapping": 2.18,
+            "Kidnapping-Cases-Reported": 25,
+            "Rape": 7.67,
+            "Rape-Cases-Reported": 88,
+            "Sexual_Harrassment": 5.05,
+            "Sexual_Harrassment-Cases-Reported": 58
+        },
+        "Mizoram": {
+            "Domestic_Violence": 1.13,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 0.23,
+            "Kidnapping-Cases-Reported": 1,
+            "Rape": 17.46,
+            "Rape-Cases-Reported": 77,
+            "Sexual_Harrassment": 17.69,
+            "Sexual_Harrassment-Cases-Reported": 78
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.4,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.71,
+            "Kidnapping-Cases-Reported": 7,
+            "Rape": 1.92,
+            "Rape-Cases-Reported": 19,
+            "Sexual_Harrassment": 1.62,
+            "Sexual_Harrassment-Cases-Reported": 16
+        },
+        "Orissa": {
+            "Domestic_Violence": 11.21,
+            "Domestic_Violence-Cases-Reported": 2019,
+            "Kidnapping": 4.23,
+            "Kidnapping-Cases-Reported": 762,
+            "Rape": 6.18,
+            "Rape-Cases-Reported": 1113,
+            "Sexual_Harrassment": 17.01,
+            "Sexual_Harrassment-Cases-Reported": 3064
+        },
+        "Puducherry": {
+            "Domestic_Violence": 2.88,
+            "Domestic_Violence-Cases-Reported": 14,
+            "Kidnapping": 1.85,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 1.65,
+            "Rape-Cases-Reported": 8,
+            "Sexual_Harrassment": 17.7,
+            "Sexual_Harrassment-Cases-Reported": 86
+        },
+        "Punjab": {
+            "Domestic_Violence": 9.26,
+            "Domestic_Violence-Cases-Reported": 1112,
+            "Kidnapping": 4.28,
+            "Kidnapping-Cases-Reported": 514,
+            "Rape": 4.3,
+            "Rape-Cases-Reported": 517,
+            "Sexual_Harrassment": 3.64,
+            "Sexual_Harrassment-Cases-Reported": 437
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 29.24,
+            "Domestic_Violence-Cases-Reported": 8552,
+            "Kidnapping": 6.37,
+            "Kidnapping-Cases-Reported": 1863,
+            "Rape": 4.63,
+            "Rape-Cases-Reported": 1355,
+            "Sexual_Harrassment": 8.68,
+            "Sexual_Harrassment-Cases-Reported": 2539
+        },
+        "Sikkim": {
+            "Domestic_Violence": 1.85,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 1.48,
+            "Kidnapping-Cases-Reported": 4,
+            "Rape": 7.41,
+            "Rape-Cases-Reported": 20,
+            "Sexual_Harrassment": 7.04,
+            "Sexual_Harrassment-Cases-Reported": 19
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 6.19,
+            "Domestic_Violence-Cases-Reported": 1855,
+            "Kidnapping": 3.87,
+            "Kidnapping-Cases-Reported": 1160,
+            "Rape": 1.91,
+            "Rape-Cases-Reported": 573,
+            "Sexual_Harrassment": 8.94,
+            "Sexual_Harrassment-Cases-Reported": 2679
+        },
+        "Tripura": {
+            "Domestic_Violence": 47.41,
+            "Domestic_Violence-Cases-Reported": 751,
+            "Kidnapping": 6.94,
+            "Kidnapping-Cases-Reported": 110,
+            "Rape": 12.88,
+            "Rape-Cases-Reported": 204,
+            "Sexual_Harrassment": 22.1,
+            "Sexual_Harrassment-Cases-Reported": 350
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 12.21,
+            "Domestic_Violence-Cases-Reported": 10549,
+            "Kidnapping": 5.14,
+            "Kidnapping-Cases-Reported": 4439,
+            "Rape": 2.16,
+            "Rape-Cases-Reported": 1871,
+            "Sexual_Harrassment": 7.32,
+            "Sexual_Harrassment-Cases-Reported": 6329
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 9.62,
+            "Domestic_Violence-Cases-Reported": 413,
+            "Kidnapping": 5.17,
+            "Kidnapping-Cases-Reported": 222,
+            "Rape": 2.03,
+            "Rape-Cases-Reported": 87,
+            "Sexual_Harrassment": 9.92,
+            "Sexual_Harrassment-Cases-Reported": 426
+        },
+        "West Bengal": {
+            "Domestic_Violence": 35.56,
+            "Domestic_Violence-Cases-Reported": 14114,
+            "Kidnapping": 4.82,
+            "Kidnapping-Cases-Reported": 1912,
+            "Rape": 5.7,
+            "Rape-Cases-Reported": 2263,
+            "Sexual_Harrassment": 6.27,
+            "Sexual_Harrassment-Cases-Reported": 2490
+        }
+    },
+    "2009": {
+        "A & N Islands": {
+            "Domestic_Violence": 11.64,
+            "Domestic_Violence-Cases-Reported": 22,
+            "Kidnapping": 7.41,
+            "Kidnapping-Cases-Reported": 14,
+            "Rape": 9.52,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 19.58,
+            "Sexual_Harrassment-Cases-Reported": 37
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 31.59,
+            "Domestic_Violence-Cases-Reported": 11843,
+            "Kidnapping": 4.07,
+            "Kidnapping-Cases-Reported": 1526,
+            "Rape": 3.17,
+            "Rape-Cases-Reported": 1188,
+            "Sexual_Harrassment": 23.12,
+            "Sexual_Harrassment-Cases-Reported": 8667
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.37,
+            "Domestic_Violence-Cases-Reported": 13,
+            "Kidnapping": 5.1,
+            "Kidnapping-Cases-Reported": 28,
+            "Rape": 10.75,
+            "Rape-Cases-Reported": 59,
+            "Sexual_Harrassment": 11.66,
+            "Sexual_Harrassment-Cases-Reported": 64
+        },
+        "Assam": {
+            "Domestic_Violence": 33.25,
+            "Domestic_Violence-Cases-Reported": 4568,
+            "Kidnapping": 15.23,
+            "Kidnapping-Cases-Reported": 2093,
+            "Rape": 11.87,
+            "Rape-Cases-Reported": 1631,
+            "Sexual_Harrassment": 9.84,
+            "Sexual_Harrassment-Cases-Reported": 1352
+        },
+        "Bihar": {
+            "Domestic_Violence": 8.88,
+            "Domestic_Violence-Cases-Reported": 3827,
+            "Kidnapping": 4.68,
+            "Kidnapping-Cases-Reported": 2017,
+            "Rape": 2.16,
+            "Rape-Cases-Reported": 929,
+            "Sexual_Harrassment": 1.71,
+            "Sexual_Harrassment-Cases-Reported": 738
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 10.71,
+            "Domestic_Violence-Cases-Reported": 53,
+            "Kidnapping": 7.27,
+            "Kidnapping-Cases-Reported": 36,
+            "Rape": 5.86,
+            "Rape-Cases-Reported": 29,
+            "Sexual_Harrassment": 5.66,
+            "Sexual_Harrassment-Cases-Reported": 28
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 9.39,
+            "Domestic_Violence-Cases-Reported": 1021,
+            "Kidnapping": 2.11,
+            "Kidnapping-Cases-Reported": 229,
+            "Rape": 8.98,
+            "Rape-Cases-Reported": 976,
+            "Sexual_Harrassment": 16.1,
+            "Sexual_Harrassment-Cases-Reported": 1750
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 2.38,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 7.14,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 3.17,
+            "Rape-Cases-Reported": 4,
+            "Sexual_Harrassment": 2.38,
+            "Sexual_Harrassment-Cases-Reported": 3
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 3.51,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 1.17,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 5.85,
+            "Sexual_Harrassment-Cases-Reported": 5
+        },
+        "Delhi": {
+            "Domestic_Violence": 17.8,
+            "Domestic_Violence-Cases-Reported": 1424,
+            "Kidnapping": 20.68,
+            "Kidnapping-Cases-Reported": 1655,
+            "Rape": 5.86,
+            "Rape-Cases-Reported": 469,
+            "Sexual_Harrassment": 8.37,
+            "Sexual_Harrassment-Cases-Reported": 670
+        },
+        "Goa": {
+            "Domestic_Violence": 3.16,
+            "Domestic_Violence-Cases-Reported": 24,
+            "Kidnapping": 2.89,
+            "Kidnapping-Cases-Reported": 22,
+            "Rape": 6.18,
+            "Rape-Cases-Reported": 47,
+            "Sexual_Harrassment": 6.18,
+            "Sexual_Harrassment-Cases-Reported": 47
+        },
+        "Gujarat": {
+            "Domestic_Violence": 21.39,
+            "Domestic_Violence-Cases-Reported": 5530,
+            "Kidnapping": 4.5,
+            "Kidnapping-Cases-Reported": 1162,
+            "Rape": 1.68,
+            "Rape-Cases-Reported": 433,
+            "Sexual_Harrassment": 3.25,
+            "Sexual_Harrassment-Cases-Reported": 841
+        },
+        "Haryana": {
+            "Domestic_Violence": 26.57,
+            "Domestic_Violence-Cases-Reported": 2898,
+            "Kidnapping": 6.04,
+            "Kidnapping-Cases-Reported": 659,
+            "Rape": 5.53,
+            "Rape-Cases-Reported": 603,
+            "Sexual_Harrassment": 9.68,
+            "Sexual_Harrassment-Cases-Reported": 1056
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 9.55,
+            "Domestic_Violence-Cases-Reported": 285,
+            "Kidnapping": 4.09,
+            "Kidnapping-Cases-Reported": 122,
+            "Rape": 6.13,
+            "Rape-Cases-Reported": 183,
+            "Sexual_Harrassment": 11.9,
+            "Sexual_Harrassment-Cases-Reported": 355
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 3.58,
+            "Domestic_Violence-Cases-Reported": 208,
+            "Kidnapping": 14.2,
+            "Kidnapping-Cases-Reported": 825,
+            "Rape": 4.08,
+            "Rape-Cases-Reported": 237,
+            "Sexual_Harrassment": 23.12,
+            "Sexual_Harrassment-Cases-Reported": 1343
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 7.31,
+            "Domestic_Violence-Cases-Reported": 1005,
+            "Kidnapping": 3.81,
+            "Kidnapping-Cases-Reported": 523,
+            "Rape": 5.23,
+            "Rape-Cases-Reported": 719,
+            "Sexual_Harrassment": 2.61,
+            "Sexual_Harrassment-Cases-Reported": 359
+        },
+        "Karnataka": {
+            "Domestic_Violence": 13.17,
+            "Domestic_Violence-Cases-Reported": 3449,
+            "Kidnapping": 1.57,
+            "Kidnapping-Cases-Reported": 410,
+            "Rape": 1.94,
+            "Rape-Cases-Reported": 509,
+            "Sexual_Harrassment": 8.59,
+            "Sexual_Harrassment-Cases-Reported": 2250
+        },
+        "Kerala": {
+            "Domestic_Violence": 25.82,
+            "Domestic_Violence-Cases-Reported": 4027,
+            "Kidnapping": 1.11,
+            "Kidnapping-Cases-Reported": 173,
+            "Rape": 3.64,
+            "Rape-Cases-Reported": 568,
+            "Sexual_Harrassment": 18.82,
+            "Sexual_Harrassment-Cases-Reported": 2935
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 3.17,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 15.17,
+            "Domestic_Violence-Cases-Reported": 4841,
+            "Kidnapping": 2.64,
+            "Kidnapping-Cases-Reported": 842,
+            "Rape": 9.4,
+            "Rape-Cases-Reported": 2998,
+            "Sexual_Harrassment": 22.05,
+            "Sexual_Harrassment-Cases-Reported": 7035
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 16.4,
+            "Domestic_Violence-Cases-Reported": 8022,
+            "Kidnapping": 1.89,
+            "Kidnapping-Cases-Reported": 926,
+            "Rape": 3.03,
+            "Rape-Cases-Reported": 1483,
+            "Sexual_Harrassment": 8.78,
+            "Sexual_Harrassment-Cases-Reported": 4295
+        },
+        "Manipur": {
+            "Domestic_Violence": 2.08,
+            "Domestic_Violence-Cases-Reported": 25,
+            "Kidnapping": 8.07,
+            "Kidnapping-Cases-Reported": 97,
+            "Rape": 2.58,
+            "Rape-Cases-Reported": 31,
+            "Sexual_Harrassment": 3.41,
+            "Sexual_Harrassment-Cases-Reported": 41
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 2.07,
+            "Domestic_Violence-Cases-Reported": 24,
+            "Kidnapping": 2.33,
+            "Kidnapping-Cases-Reported": 27,
+            "Rape": 9.65,
+            "Rape-Cases-Reported": 112,
+            "Sexual_Harrassment": 6.29,
+            "Sexual_Harrassment-Cases-Reported": 73
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.89,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 18.44,
+            "Rape-Cases-Reported": 83,
+            "Sexual_Harrassment": 13.78,
+            "Sexual_Harrassment-Cases-Reported": 62
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 1.0,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 2.2,
+            "Rape-Cases-Reported": 22,
+            "Sexual_Harrassment": 1.1,
+            "Sexual_Harrassment-Cases-Reported": 11
+        },
+        "Orissa": {
+            "Domestic_Violence": 13.36,
+            "Domestic_Violence-Cases-Reported": 2431,
+            "Kidnapping": 4.4,
+            "Kidnapping-Cases-Reported": 800,
+            "Rape": 5.62,
+            "Rape-Cases-Reported": 1023,
+            "Sexual_Harrassment": 15.98,
+            "Sexual_Harrassment-Cases-Reported": 2907
+        },
+        "Puducherry": {
+            "Domestic_Violence": 2.02,
+            "Domestic_Violence-Cases-Reported": 10,
+            "Kidnapping": 2.63,
+            "Kidnapping-Cases-Reported": 13,
+            "Rape": 0.2,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 13.94,
+            "Sexual_Harrassment-Cases-Reported": 69
+        },
+        "Punjab": {
+            "Domestic_Violence": 9.78,
+            "Domestic_Violence-Cases-Reported": 1187,
+            "Kidnapping": 4.23,
+            "Kidnapping-Cases-Reported": 513,
+            "Rape": 4.21,
+            "Rape-Cases-Reported": 511,
+            "Sexual_Harrassment": 2.9,
+            "Sexual_Harrassment-Cases-Reported": 352
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 36.35,
+            "Domestic_Violence-Cases-Reported": 10807,
+            "Kidnapping": 7.77,
+            "Kidnapping-Cases-Reported": 2310,
+            "Rape": 5.11,
+            "Rape-Cases-Reported": 1519,
+            "Sexual_Harrassment": 8.44,
+            "Sexual_Harrassment-Cases-Reported": 2509
+        },
+        "Sikkim": {
+            "Domestic_Violence": 2.22,
+            "Domestic_Violence-Cases-Reported": 6,
+            "Kidnapping": 2.22,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 6.67,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 3.7,
+            "Sexual_Harrassment-Cases-Reported": 10
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 5.48,
+            "Domestic_Violence-Cases-Reported": 1654,
+            "Kidnapping": 3.75,
+            "Kidnapping-Cases-Reported": 1133,
+            "Rape": 1.97,
+            "Rape-Cases-Reported": 596,
+            "Sexual_Harrassment": 5.77,
+            "Sexual_Harrassment-Cases-Reported": 1743
+        },
+        "Tripura": {
+            "Domestic_Violence": 52.54,
+            "Domestic_Violence-Cases-Reported": 844,
+            "Kidnapping": 5.73,
+            "Kidnapping-Cases-Reported": 92,
+            "Rape": 11.83,
+            "Rape-Cases-Reported": 190,
+            "Sexual_Harrassment": 24.21,
+            "Sexual_Harrassment-Cases-Reported": 389
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 12.27,
+            "Domestic_Violence-Cases-Reported": 10798,
+            "Kidnapping": 5.77,
+            "Kidnapping-Cases-Reported": 5078,
+            "Rape": 2.0,
+            "Rape-Cases-Reported": 1759,
+            "Sexual_Harrassment": 6.03,
+            "Sexual_Harrassment-Cases-Reported": 5306
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 10.45,
+            "Domestic_Violence-Cases-Reported": 455,
+            "Kidnapping": 5.67,
+            "Kidnapping-Cases-Reported": 247,
+            "Rape": 2.55,
+            "Rape-Cases-Reported": 111,
+            "Sexual_Harrassment": 8.45,
+            "Sexual_Harrassment-Cases-Reported": 368
+        },
+        "West Bengal": {
+            "Domestic_Violence": 41.4,
+            "Domestic_Violence-Cases-Reported": 16618,
+            "Kidnapping": 5.46,
+            "Kidnapping-Cases-Reported": 2192,
+            "Rape": 5.82,
+            "Rape-Cases-Reported": 2336,
+            "Sexual_Harrassment": 5.11,
+            "Sexual_Harrassment-Cases-Reported": 2050
+        }
+    },
+    "2010": {
+        "A & N Islands": {
+            "Domestic_Violence": 4.63,
+            "Domestic_Violence-Cases-Reported": 9,
+            "Kidnapping": 4.12,
+            "Kidnapping-Cases-Reported": 8,
+            "Rape": 12.35,
+            "Rape-Cases-Reported": 24,
+            "Sexual_Harrassment": 21.09,
+            "Sexual_Harrassment-Cases-Reported": 41
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 33.46,
+            "Domestic_Violence-Cases-Reported": 12668,
+            "Kidnapping": 4.04,
+            "Kidnapping-Cases-Reported": 1531,
+            "Rape": 3.6,
+            "Rape-Cases-Reported": 1362,
+            "Sexual_Harrassment": 24.29,
+            "Sexual_Harrassment-Cases-Reported": 9196
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.16,
+            "Domestic_Violence-Cases-Reported": 12,
+            "Kidnapping": 8.28,
+            "Kidnapping-Cases-Reported": 46,
+            "Rape": 8.46,
+            "Rape-Cases-Reported": 47,
+            "Sexual_Harrassment": 15.29,
+            "Sexual_Harrassment-Cases-Reported": 85
+        },
+        "Assam": {
+            "Domestic_Violence": 40.06,
+            "Domestic_Violence-Cases-Reported": 5585,
+            "Kidnapping": 19.85,
+            "Kidnapping-Cases-Reported": 2767,
+            "Rape": 12.35,
+            "Rape-Cases-Reported": 1721,
+            "Sexual_Harrassment": 10.19,
+            "Sexual_Harrassment-Cases-Reported": 1420
+        },
+        "Bihar": {
+            "Domestic_Violence": 8.07,
+            "Domestic_Violence-Cases-Reported": 3528,
+            "Kidnapping": 5.89,
+            "Kidnapping-Cases-Reported": 2577,
+            "Rape": 1.82,
+            "Rape-Cases-Reported": 795,
+            "Sexual_Harrassment": 1.26,
+            "Sexual_Harrassment-Cases-Reported": 550
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 9.09,
+            "Domestic_Violence-Cases-Reported": 46,
+            "Kidnapping": 5.53,
+            "Kidnapping-Cases-Reported": 28,
+            "Rape": 6.12,
+            "Rape-Cases-Reported": 31,
+            "Sexual_Harrassment": 6.52,
+            "Sexual_Harrassment-Cases-Reported": 33
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 8.84,
+            "Domestic_Violence-Cases-Reported": 976,
+            "Kidnapping": 2.54,
+            "Kidnapping-Cases-Reported": 281,
+            "Rape": 9.16,
+            "Rape-Cases-Reported": 1012,
+            "Sexual_Harrassment": 17.1,
+            "Sexual_Harrassment-Cases-Reported": 1888
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 2.36,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 7.85,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 2.36,
+            "Rape-Cases-Reported": 3,
+            "Sexual_Harrassment": 10.21,
+            "Sexual_Harrassment-Cases-Reported": 13
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 3.33,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 2.22,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 1.11,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 2.22,
+            "Sexual_Harrassment-Cases-Reported": 2
+        },
+        "Delhi": {
+            "Domestic_Violence": 18.75,
+            "Domestic_Violence-Cases-Reported": 1547,
+            "Kidnapping": 21.09,
+            "Kidnapping-Cases-Reported": 1740,
+            "Rape": 6.15,
+            "Rape-Cases-Reported": 507,
+            "Sexual_Harrassment": 8.25,
+            "Sexual_Harrassment-Cases-Reported": 681
+        },
+        "Goa": {
+            "Domestic_Violence": 2.29,
+            "Domestic_Violence-Cases-Reported": 18,
+            "Kidnapping": 2.29,
+            "Kidnapping-Cases-Reported": 18,
+            "Rape": 4.59,
+            "Rape-Cases-Reported": 36,
+            "Sexual_Harrassment": 6.63,
+            "Sexual_Harrassment-Cases-Reported": 52
+        },
+        "Gujarat": {
+            "Domestic_Violence": 21.46,
+            "Domestic_Violence-Cases-Reported": 5619,
+            "Kidnapping": 4.93,
+            "Kidnapping-Cases-Reported": 1290,
+            "Rape": 1.56,
+            "Rape-Cases-Reported": 408,
+            "Sexual_Harrassment": 2.97,
+            "Sexual_Harrassment-Cases-Reported": 778
+        },
+        "Haryana": {
+            "Domestic_Violence": 27.15,
+            "Domestic_Violence-Cases-Reported": 3004,
+            "Kidnapping": 6.45,
+            "Kidnapping-Cases-Reported": 714,
+            "Rape": 6.51,
+            "Rape-Cases-Reported": 720,
+            "Sexual_Harrassment": 9.54,
+            "Sexual_Harrassment-Cases-Reported": 1056
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 9.21,
+            "Domestic_Violence-Cases-Reported": 277,
+            "Kidnapping": 5.38,
+            "Kidnapping-Cases-Reported": 162,
+            "Rape": 5.32,
+            "Rape-Cases-Reported": 160,
+            "Sexual_Harrassment": 14.22,
+            "Sexual_Harrassment-Cases-Reported": 428
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 3.66,
+            "Domestic_Violence-Cases-Reported": 220,
+            "Kidnapping": 13.97,
+            "Kidnapping-Cases-Reported": 840,
+            "Rape": 4.07,
+            "Rape-Cases-Reported": 245,
+            "Sexual_Harrassment": 21.62,
+            "Sexual_Harrassment-Cases-Reported": 1300
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 6.65,
+            "Domestic_Violence-Cases-Reported": 926,
+            "Kidnapping": 5.06,
+            "Kidnapping-Cases-Reported": 704,
+            "Rape": 5.55,
+            "Rape-Cases-Reported": 773,
+            "Sexual_Harrassment": 1.87,
+            "Sexual_Harrassment-Cases-Reported": 261
+        },
+        "Karnataka": {
+            "Domestic_Violence": 13.94,
+            "Domestic_Violence-Cases-Reported": 3689,
+            "Kidnapping": 2.21,
+            "Kidnapping-Cases-Reported": 586,
+            "Rape": 2.21,
+            "Rape-Cases-Reported": 586,
+            "Sexual_Harrassment": 9.93,
+            "Sexual_Harrassment-Cases-Reported": 2627
+        },
+        "Kerala": {
+            "Domestic_Violence": 30.62,
+            "Domestic_Violence-Cases-Reported": 4819,
+            "Kidnapping": 1.17,
+            "Kidnapping-Cases-Reported": 184,
+            "Rape": 4.03,
+            "Rape-Cases-Reported": 634,
+            "Sexual_Harrassment": 22.07,
+            "Sexual_Harrassment-Cases-Reported": 3473
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 14.32,
+            "Domestic_Violence-Cases-Reported": 4648,
+            "Kidnapping": 3.19,
+            "Kidnapping-Cases-Reported": 1035,
+            "Rape": 9.66,
+            "Rape-Cases-Reported": 3135,
+            "Sexual_Harrassment": 23.31,
+            "Sexual_Harrassment-Cases-Reported": 7564
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 15.81,
+            "Domestic_Violence-Cases-Reported": 7827,
+            "Kidnapping": 2.27,
+            "Kidnapping-Cases-Reported": 1124,
+            "Rape": 3.23,
+            "Rape-Cases-Reported": 1599,
+            "Sexual_Harrassment": 9.78,
+            "Sexual_Harrassment-Cases-Reported": 4841
+        },
+        "Manipur": {
+            "Domestic_Violence": 1.48,
+            "Domestic_Violence-Cases-Reported": 18,
+            "Kidnapping": 8.8,
+            "Kidnapping-Cases-Reported": 107,
+            "Rape": 2.8,
+            "Rape-Cases-Reported": 34,
+            "Sexual_Harrassment": 2.55,
+            "Sexual_Harrassment-Cases-Reported": 31
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 2.04,
+            "Domestic_Violence-Cases-Reported": 24,
+            "Kidnapping": 3.15,
+            "Kidnapping-Cases-Reported": 37,
+            "Rape": 12.69,
+            "Rape-Cases-Reported": 149,
+            "Sexual_Harrassment": 4.09,
+            "Sexual_Harrassment-Cases-Reported": 48
+        },
+        "Mizoram": {
+            "Domestic_Violence": 0.66,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 20.28,
+            "Rape-Cases-Reported": 92,
+            "Sexual_Harrassment": 16.53,
+            "Sexual_Harrassment-Cases-Reported": 75
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.1,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.59,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 1.58,
+            "Rape-Cases-Reported": 16,
+            "Sexual_Harrassment": 1.58,
+            "Sexual_Harrassment-Cases-Reported": 16
+        },
+        "Orissa": {
+            "Domestic_Violence": 13.36,
+            "Domestic_Violence-Cases-Reported": 2455,
+            "Kidnapping": 4.99,
+            "Kidnapping-Cases-Reported": 917,
+            "Rape": 5.58,
+            "Rape-Cases-Reported": 1025,
+            "Sexual_Harrassment": 17.07,
+            "Sexual_Harrassment-Cases-Reported": 3137
+        },
+        "Puducherry": {
+            "Domestic_Violence": 1.59,
+            "Domestic_Violence-Cases-Reported": 8,
+            "Kidnapping": 2.79,
+            "Kidnapping-Cases-Reported": 14,
+            "Rape": 0.6,
+            "Rape-Cases-Reported": 3,
+            "Sexual_Harrassment": 13.53,
+            "Sexual_Harrassment-Cases-Reported": 68
+        },
+        "Punjab": {
+            "Domestic_Violence": 10.46,
+            "Domestic_Violence-Cases-Reported": 1284,
+            "Kidnapping": 4.69,
+            "Kidnapping-Cases-Reported": 576,
+            "Rape": 4.45,
+            "Rape-Cases-Reported": 546,
+            "Sexual_Harrassment": 3.15,
+            "Sexual_Harrassment-Cases-Reported": 387
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 38.44,
+            "Domestic_Violence-Cases-Reported": 11607,
+            "Kidnapping": 8.2,
+            "Kidnapping-Cases-Reported": 2477,
+            "Rape": 5.2,
+            "Rape-Cases-Reported": 1571,
+            "Sexual_Harrassment": 7.82,
+            "Sexual_Harrassment-Cases-Reported": 2362
+        },
+        "Sikkim": {
+            "Domestic_Violence": 1.46,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 2.19,
+            "Kidnapping-Cases-Reported": 6,
+            "Rape": 6.56,
+            "Rape-Cases-Reported": 18,
+            "Sexual_Harrassment": 4.01,
+            "Sexual_Harrassment-Cases-Reported": 11
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 5.7,
+            "Domestic_Violence-Cases-Reported": 1735,
+            "Kidnapping": 4.81,
+            "Kidnapping-Cases-Reported": 1464,
+            "Rape": 2.25,
+            "Rape-Cases-Reported": 686,
+            "Sexual_Harrassment": 6.71,
+            "Sexual_Harrassment-Cases-Reported": 2043
+        },
+        "Tripura": {
+            "Domestic_Violence": 59.22,
+            "Domestic_Violence-Cases-Reported": 962,
+            "Kidnapping": 5.6,
+            "Kidnapping-Cases-Reported": 91,
+            "Rape": 14.65,
+            "Rape-Cases-Reported": 238,
+            "Sexual_Harrassment": 23.7,
+            "Sexual_Harrassment-Cases-Reported": 385
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 11.38,
+            "Domestic_Violence-Cases-Reported": 10195,
+            "Kidnapping": 6.11,
+            "Kidnapping-Cases-Reported": 5468,
+            "Rape": 1.75,
+            "Rape-Cases-Reported": 1563,
+            "Sexual_Harrassment": 3.13,
+            "Sexual_Harrassment-Cases-Reported": 2804
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 9.26,
+            "Domestic_Violence-Cases-Reported": 409,
+            "Kidnapping": 5.64,
+            "Kidnapping-Cases-Reported": 249,
+            "Rape": 2.74,
+            "Rape-Cases-Reported": 121,
+            "Sexual_Harrassment": 6.56,
+            "Sexual_Harrassment-Cases-Reported": 290
+        },
+        "West Bengal": {
+            "Domestic_Violence": 45.08,
+            "Domestic_Violence-Cases-Reported": 18303,
+            "Kidnapping": 6.83,
+            "Kidnapping-Cases-Reported": 2772,
+            "Rape": 5.69,
+            "Rape-Cases-Reported": 2311,
+            "Sexual_Harrassment": 6.47,
+            "Sexual_Harrassment-Cases-Reported": 2628
+        }
+    },
+    "2011": {
+        "A & N Islands": {
+            "Domestic_Violence": 2.92,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 7.02,
+            "Kidnapping-Cases-Reported": 12,
+            "Rape": 7.6,
+            "Rape-Cases-Reported": 13,
+            "Sexual_Harrassment": 10.53,
+            "Sexual_Harrassment-Cases-Reported": 18
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 36.68,
+            "Domestic_Violence-Cases-Reported": 13975,
+            "Kidnapping": 4.23,
+            "Kidnapping-Cases-Reported": 1612,
+            "Rape": 3.78,
+            "Rape-Cases-Reported": 1442,
+            "Sexual_Harrassment": 22.33,
+            "Sexual_Harrassment-Cases-Reported": 8507
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 2.9,
+            "Domestic_Violence-Cases-Reported": 18,
+            "Kidnapping": 9.66,
+            "Kidnapping-Cases-Reported": 60,
+            "Rape": 6.76,
+            "Rape-Cases-Reported": 42,
+            "Sexual_Harrassment": 8.21,
+            "Sexual_Harrassment-Cases-Reported": 51
+        },
+        "Assam": {
+            "Domestic_Violence": 38.26,
+            "Domestic_Violence-Cases-Reported": 5367,
+            "Kidnapping": 22.77,
+            "Kidnapping-Cases-Reported": 3194,
+            "Rape": 12.12,
+            "Rape-Cases-Reported": 1700,
+            "Sexual_Harrassment": 8.56,
+            "Sexual_Harrassment-Cases-Reported": 1201
+        },
+        "Bihar": {
+            "Domestic_Violence": 8.61,
+            "Domestic_Violence-Cases-Reported": 4020,
+            "Kidnapping": 6.55,
+            "Kidnapping-Cases-Reported": 3060,
+            "Rape": 2.0,
+            "Rape-Cases-Reported": 934,
+            "Sexual_Harrassment": 1.71,
+            "Sexual_Harrassment-Cases-Reported": 801
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 10.06,
+            "Domestic_Violence-Cases-Reported": 48,
+            "Kidnapping": 9.64,
+            "Kidnapping-Cases-Reported": 46,
+            "Rape": 5.66,
+            "Rape-Cases-Reported": 27,
+            "Sexual_Harrassment": 6.92,
+            "Sexual_Harrassment-Cases-Reported": 33
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 8.16,
+            "Domestic_Violence-Cases-Reported": 938,
+            "Kidnapping": 3.19,
+            "Kidnapping-Cases-Reported": 367,
+            "Rape": 9.16,
+            "Rape-Cases-Reported": 1053,
+            "Sexual_Harrassment": 15.91,
+            "Sexual_Harrassment-Cases-Reported": 1828
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 1.96,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 5.23,
+            "Kidnapping-Cases-Reported": 8,
+            "Rape": 2.61,
+            "Rape-Cases-Reported": 4,
+            "Sexual_Harrassment": 1.31,
+            "Sexual_Harrassment-Cases-Reported": 2
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 1.85,
+            "Domestic_Violence-Cases-Reported": 2,
+            "Kidnapping": 1.85,
+            "Kidnapping-Cases-Reported": 2,
+            "Rape": 0.93,
+            "Rape-Cases-Reported": 1,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Delhi": {
+            "Domestic_Violence": 22.78,
+            "Domestic_Violence-Cases-Reported": 1717,
+            "Kidnapping": 27.66,
+            "Kidnapping-Cases-Reported": 2085,
+            "Rape": 7.59,
+            "Rape-Cases-Reported": 572,
+            "Sexual_Harrassment": 10.87,
+            "Sexual_Harrassment-Cases-Reported": 819
+        },
+        "Goa": {
+            "Domestic_Violence": 2.89,
+            "Domestic_Violence-Cases-Reported": 19,
+            "Kidnapping": 2.59,
+            "Kidnapping-Cases-Reported": 17,
+            "Rape": 4.41,
+            "Rape-Cases-Reported": 29,
+            "Sexual_Harrassment": 6.24,
+            "Sexual_Harrassment-Cases-Reported": 41
+        },
+        "Gujarat": {
+            "Domestic_Violence": 22.38,
+            "Domestic_Violence-Cases-Reported": 6082,
+            "Kidnapping": 5.31,
+            "Kidnapping-Cases-Reported": 1442,
+            "Rape": 1.62,
+            "Rape-Cases-Reported": 439,
+            "Sexual_Harrassment": 2.86,
+            "Sexual_Harrassment-Cases-Reported": 778
+        },
+        "Haryana": {
+            "Domestic_Violence": 26.25,
+            "Domestic_Violence-Cases-Reported": 2995,
+            "Kidnapping": 6.43,
+            "Kidnapping-Cases-Reported": 733,
+            "Rape": 6.43,
+            "Rape-Cases-Reported": 733,
+            "Sexual_Harrassment": 8.45,
+            "Sexual_Harrassment-Cases-Reported": 964
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 7.87,
+            "Domestic_Violence-Cases-Reported": 243,
+            "Kidnapping": 6.19,
+            "Kidnapping-Cases-Reported": 191,
+            "Rape": 5.44,
+            "Rape-Cases-Reported": 168,
+            "Sexual_Harrassment": 12.73,
+            "Sexual_Harrassment-Cases-Reported": 393
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 5.26,
+            "Domestic_Violence-Cases-Reported": 297,
+            "Kidnapping": 18.11,
+            "Kidnapping-Cases-Reported": 1023,
+            "Rape": 4.9,
+            "Rape-Cases-Reported": 277,
+            "Sexual_Harrassment": 27.34,
+            "Sexual_Harrassment-Cases-Reported": 1544
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 6.34,
+            "Domestic_Violence-Cases-Reported": 941,
+            "Kidnapping": 4.49,
+            "Kidnapping-Cases-Reported": 666,
+            "Rape": 5.28,
+            "Rape-Cases-Reported": 784,
+            "Sexual_Harrassment": 2.18,
+            "Sexual_Harrassment-Cases-Reported": 324
+        },
+        "Karnataka": {
+            "Domestic_Violence": 14.46,
+            "Domestic_Violence-Cases-Reported": 3979,
+            "Kidnapping": 2.64,
+            "Kidnapping-Cases-Reported": 727,
+            "Rape": 2.31,
+            "Rape-Cases-Reported": 636,
+            "Sexual_Harrassment": 9.78,
+            "Sexual_Harrassment-Cases-Reported": 2689
+        },
+        "Kerala": {
+            "Domestic_Violence": 35.89,
+            "Domestic_Violence-Cases-Reported": 5392,
+            "Kidnapping": 1.47,
+            "Kidnapping-Cases-Reported": 221,
+            "Rape": 7.53,
+            "Rape-Cases-Reported": 1132,
+            "Sexual_Harrassment": 28.81,
+            "Sexual_Harrassment-Cases-Reported": 4329
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 13.91,
+            "Domestic_Violence-Cases-Reported": 4543,
+            "Kidnapping": 3.47,
+            "Kidnapping-Cases-Reported": 1133,
+            "Rape": 10.43,
+            "Rape-Cases-Reported": 3406,
+            "Sexual_Harrassment": 22.73,
+            "Sexual_Harrassment-Cases-Reported": 7427
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 14.78,
+            "Domestic_Violence-Cases-Reported": 7475,
+            "Kidnapping": 2.48,
+            "Kidnapping-Cases-Reported": 1252,
+            "Rape": 3.36,
+            "Rape-Cases-Reported": 1701,
+            "Sexual_Harrassment": 9.62,
+            "Sexual_Harrassment-Cases-Reported": 4865
+        },
+        "Manipur": {
+            "Domestic_Violence": 3.27,
+            "Domestic_Violence-Cases-Reported": 40,
+            "Kidnapping": 9.48,
+            "Kidnapping-Cases-Reported": 116,
+            "Rape": 4.33,
+            "Rape-Cases-Reported": 53,
+            "Sexual_Harrassment": 3.1,
+            "Sexual_Harrassment-Cases-Reported": 38
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 1.65,
+            "Domestic_Violence-Cases-Reported": 22,
+            "Kidnapping": 3.0,
+            "Kidnapping-Cases-Reported": 40,
+            "Rape": 9.76,
+            "Rape-Cases-Reported": 130,
+            "Sexual_Harrassment": 5.63,
+            "Sexual_Harrassment-Cases-Reported": 75
+        },
+        "Mizoram": {
+            "Domestic_Violence": 1.83,
+            "Domestic_Violence-Cases-Reported": 9,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 15.7,
+            "Rape-Cases-Reported": 77,
+            "Sexual_Harrassment": 14.88,
+            "Sexual_Harrassment-Cases-Reported": 73
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.11,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.34,
+            "Kidnapping-Cases-Reported": 3,
+            "Rape": 2.58,
+            "Rape-Cases-Reported": 23,
+            "Sexual_Harrassment": 1.01,
+            "Sexual_Harrassment-Cases-Reported": 9
+        },
+        "Orissa": {
+            "Domestic_Violence": 14.75,
+            "Domestic_Violence-Cases-Reported": 2785,
+            "Kidnapping": 5.34,
+            "Kidnapping-Cases-Reported": 1008,
+            "Rape": 5.89,
+            "Rape-Cases-Reported": 1112,
+            "Sexual_Harrassment": 18.23,
+            "Sexual_Harrassment-Cases-Reported": 3442
+        },
+        "Puducherry": {
+            "Domestic_Violence": 1.97,
+            "Domestic_Violence-Cases-Reported": 11,
+            "Kidnapping": 1.61,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 1.25,
+            "Rape-Cases-Reported": 7,
+            "Sexual_Harrassment": 9.14,
+            "Sexual_Harrassment-Cases-Reported": 51
+        },
+        "Punjab": {
+            "Domestic_Violence": 10.26,
+            "Domestic_Violence-Cases-Reported": 1279,
+            "Kidnapping": 4.15,
+            "Kidnapping-Cases-Reported": 517,
+            "Rape": 3.84,
+            "Rape-Cases-Reported": 479,
+            "Sexual_Harrassment": 2.51,
+            "Sexual_Harrassment-Cases-Reported": 313
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 41.23,
+            "Domestic_Violence-Cases-Reported": 12732,
+            "Kidnapping": 8.79,
+            "Kidnapping-Cases-Reported": 2713,
+            "Rape": 5.83,
+            "Rape-Cases-Reported": 1800,
+            "Sexual_Harrassment": 7.95,
+            "Sexual_Harrassment-Cases-Reported": 2456
+        },
+        "Sikkim": {
+            "Domestic_Violence": 1.46,
+            "Domestic_Violence-Cases-Reported": 4,
+            "Kidnapping": 3.64,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 5.83,
+            "Rape-Cases-Reported": 16,
+            "Sexual_Harrassment": 8.74,
+            "Sexual_Harrassment-Cases-Reported": 24
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 6.05,
+            "Domestic_Violence-Cases-Reported": 1964,
+            "Kidnapping": 5.37,
+            "Kidnapping-Cases-Reported": 1743,
+            "Rape": 2.09,
+            "Rape-Cases-Reported": 677,
+            "Sexual_Harrassment": 5.95,
+            "Sexual_Harrassment-Cases-Reported": 1931
+        },
+        "Tripura": {
+            "Domestic_Violence": 44.32,
+            "Domestic_Violence-Cases-Reported": 732,
+            "Kidnapping": 7.02,
+            "Kidnapping-Cases-Reported": 116,
+            "Rape": 12.41,
+            "Rape-Cases-Reported": 205,
+            "Sexual_Harrassment": 18.35,
+            "Sexual_Harrassment-Cases-Reported": 303
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 10.51,
+            "Domestic_Violence-Cases-Reported": 9443,
+            "Kidnapping": 8.38,
+            "Kidnapping-Cases-Reported": 7525,
+            "Rape": 2.27,
+            "Rape-Cases-Reported": 2042,
+            "Sexual_Harrassment": 3.85,
+            "Sexual_Harrassment-Cases-Reported": 3458
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 8.56,
+            "Domestic_Violence-Cases-Reported": 390,
+            "Kidnapping": 6.21,
+            "Kidnapping-Cases-Reported": 283,
+            "Rape": 2.83,
+            "Rape-Cases-Reported": 129,
+            "Sexual_Harrassment": 4.13,
+            "Sexual_Harrassment-Cases-Reported": 188
+        },
+        "West Bengal": {
+            "Domestic_Violence": 49.34,
+            "Domestic_Violence-Cases-Reported": 20282,
+            "Kidnapping": 9.03,
+            "Kidnapping-Cases-Reported": 3711,
+            "Rape": 5.75,
+            "Rape-Cases-Reported": 2363,
+            "Sexual_Harrassment": 6.23,
+            "Sexual_Harrassment-Cases-Reported": 2563
+        }
+    },
+    "2012": {
+        "A & N Islands": {
+            "Domestic_Violence": 2.87,
+            "Domestic_Violence-Cases-Reported": 7,
+            "Kidnapping": 2.87,
+            "Kidnapping-Cases-Reported": 7,
+            "Rape": 4.92,
+            "Rape-Cases-Reported": 12,
+            "Sexual_Harrassment": 8.61,
+            "Sexual_Harrassment-Cases-Reported": 21
+        },
+        "Andhra Pradesh": {
+            "Domestic_Violence": 32.58,
+            "Domestic_Violence-Cases-Reported": 13893,
+            "Kidnapping": 3.29,
+            "Kidnapping-Cases-Reported": 1403,
+            "Rape": 3.14,
+            "Rape-Cases-Reported": 1341,
+            "Sexual_Harrassment": 20.0,
+            "Sexual_Harrassment-Cases-Reported": 8530
+        },
+        "Arunachal Pradesh": {
+            "Domestic_Violence": 4.52,
+            "Domestic_Violence-Cases-Reported": 27,
+            "Kidnapping": 9.72,
+            "Kidnapping-Cases-Reported": 58,
+            "Rape": 7.71,
+            "Rape-Cases-Reported": 46,
+            "Sexual_Harrassment": 11.56,
+            "Sexual_Harrassment-Cases-Reported": 69
+        },
+        "Assam": {
+            "Domestic_Violence": 43.28,
+            "Domestic_Violence-Cases-Reported": 6547,
+            "Kidnapping": 22.23,
+            "Kidnapping-Cases-Reported": 3362,
+            "Rape": 11.34,
+            "Rape-Cases-Reported": 1716,
+            "Sexual_Harrassment": 12.2,
+            "Sexual_Harrassment-Cases-Reported": 1845
+        },
+        "Bihar": {
+            "Domestic_Violence": 10.34,
+            "Domestic_Violence-Cases-Reported": 4961,
+            "Kidnapping": 7.91,
+            "Kidnapping-Cases-Reported": 3793,
+            "Rape": 1.93,
+            "Rape-Cases-Reported": 927,
+            "Sexual_Harrassment": 0.32,
+            "Sexual_Harrassment-Cases-Reported": 155
+        },
+        "Chandigarh": {
+            "Domestic_Violence": 12.17,
+            "Domestic_Violence-Cases-Reported": 78,
+            "Kidnapping": 10.3,
+            "Kidnapping-Cases-Reported": 66,
+            "Rape": 4.21,
+            "Rape-Cases-Reported": 27,
+            "Sexual_Harrassment": 10.92,
+            "Sexual_Harrassment-Cases-Reported": 70
+        },
+        "Chhattisgarh": {
+            "Domestic_Violence": 8.63,
+            "Domestic_Violence-Cases-Reported": 1061,
+            "Kidnapping": 2.85,
+            "Kidnapping-Cases-Reported": 350,
+            "Rape": 8.41,
+            "Rape-Cases-Reported": 1034,
+            "Sexual_Harrassment": 14.33,
+            "Sexual_Harrassment-Cases-Reported": 1763
+        },
+        "D & N Haveli": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 5.23,
+            "Kidnapping-Cases-Reported": 9,
+            "Rape": 1.74,
+            "Rape-Cases-Reported": 3,
+            "Sexual_Harrassment": 1.16,
+            "Sexual_Harrassment-Cases-Reported": 2
+        },
+        "Daman & Diu": {
+            "Domestic_Violence": 3.06,
+            "Domestic_Violence-Cases-Reported": 3,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 5.1,
+            "Rape-Cases-Reported": 5,
+            "Sexual_Harrassment": 0.0,
+            "Sexual_Harrassment-Cases-Reported": 0
+        },
+        "Delhi": {
+            "Domestic_Violence": 24.8,
+            "Domestic_Violence-Cases-Reported": 2119,
+            "Kidnapping": 25.28,
+            "Kidnapping-Cases-Reported": 2160,
+            "Rape": 8.26,
+            "Rape-Cases-Reported": 706,
+            "Sexual_Harrassment": 10.94,
+            "Sexual_Harrassment-Cases-Reported": 935
+        },
+        "Goa": {
+            "Domestic_Violence": 2.76,
+            "Domestic_Violence-Cases-Reported": 24,
+            "Kidnapping": 1.84,
+            "Kidnapping-Cases-Reported": 16,
+            "Rape": 6.33,
+            "Rape-Cases-Reported": 55,
+            "Sexual_Harrassment": 7.48,
+            "Sexual_Harrassment-Cases-Reported": 65
+        },
+        "Gujarat": {
+            "Domestic_Violence": 23.46,
+            "Domestic_Violence-Cases-Reported": 6679,
+            "Kidnapping": 5.36,
+            "Kidnapping-Cases-Reported": 1527,
+            "Rape": 1.66,
+            "Rape-Cases-Reported": 473,
+            "Sexual_Harrassment": 2.94,
+            "Sexual_Harrassment-Cases-Reported": 838
+        },
+        "Haryana": {
+            "Domestic_Violence": 28.46,
+            "Domestic_Violence-Cases-Reported": 3395,
+            "Kidnapping": 7.54,
+            "Kidnapping-Cases-Reported": 900,
+            "Rape": 5.6,
+            "Rape-Cases-Reported": 668,
+            "Sexual_Harrassment": 8.04,
+            "Sexual_Harrassment-Cases-Reported": 959
+        },
+        "Himachal Pradesh": {
+            "Domestic_Violence": 7.53,
+            "Domestic_Violence-Cases-Reported": 253,
+            "Kidnapping": 4.52,
+            "Kidnapping-Cases-Reported": 152,
+            "Rape": 5.44,
+            "Rape-Cases-Reported": 183,
+            "Sexual_Harrassment": 9.46,
+            "Sexual_Harrassment-Cases-Reported": 318
+        },
+        "Jammu and Kashmir": {
+            "Domestic_Violence": 5.44,
+            "Domestic_Violence-Cases-Reported": 309,
+            "Kidnapping": 18.33,
+            "Kidnapping-Cases-Reported": 1041,
+            "Rape": 5.34,
+            "Rape-Cases-Reported": 303,
+            "Sexual_Harrassment": 29.39,
+            "Sexual_Harrassment-Cases-Reported": 1669
+        },
+        "Jharkhand": {
+            "Domestic_Violence": 10.05,
+            "Domestic_Violence-Cases-Reported": 1563,
+            "Kidnapping": 5.07,
+            "Kidnapping-Cases-Reported": 789,
+            "Rape": 5.22,
+            "Rape-Cases-Reported": 812,
+            "Sexual_Harrassment": 1.89,
+            "Sexual_Harrassment-Cases-Reported": 294
+        },
+        "Karnataka": {
+            "Domestic_Violence": 13.14,
+            "Domestic_Violence-Cases-Reported": 3902,
+            "Kidnapping": 3.71,
+            "Kidnapping-Cases-Reported": 1102,
+            "Rape": 2.09,
+            "Rape-Cases-Reported": 621,
+            "Sexual_Harrassment": 10.37,
+            "Sexual_Harrassment-Cases-Reported": 3078
+        },
+        "Kerala": {
+            "Domestic_Violence": 29.39,
+            "Domestic_Violence-Cases-Reported": 5248,
+            "Kidnapping": 1.2,
+            "Kidnapping-Cases-Reported": 214,
+            "Rape": 5.71,
+            "Rape-Cases-Reported": 1019,
+            "Sexual_Harrassment": 23.7,
+            "Sexual_Harrassment-Cases-Reported": 4233
+        },
+        "Lakshadweep": {
+            "Domestic_Violence": 2.56,
+            "Domestic_Violence-Cases-Reported": 1,
+            "Kidnapping": 0.0,
+            "Kidnapping-Cases-Reported": 0,
+            "Rape": 0.0,
+            "Rape-Cases-Reported": 0,
+            "Sexual_Harrassment": 2.56,
+            "Sexual_Harrassment-Cases-Reported": 1
+        },
+        "Madhya Pradesh": {
+            "Domestic_Violence": 13.42,
+            "Domestic_Violence-Cases-Reported": 4731,
+            "Kidnapping": 3.21,
+            "Kidnapping-Cases-Reported": 1133,
+            "Rape": 9.72,
+            "Rape-Cases-Reported": 3425,
+            "Sexual_Harrassment": 21.07,
+            "Sexual_Harrassment-Cases-Reported": 7429
+        },
+        "Maharashtra": {
+            "Domestic_Violence": 14.14,
+            "Domestic_Violence-Cases-Reported": 7744,
+            "Kidnapping": 2.08,
+            "Kidnapping-Cases-Reported": 1140,
+            "Rape": 3.36,
+            "Rape-Cases-Reported": 1839,
+            "Sexual_Harrassment": 9.55,
+            "Sexual_Harrassment-Cases-Reported": 5229
+        },
+        "Manipur": {
+            "Domestic_Violence": 3.48,
+            "Domestic_Violence-Cases-Reported": 43,
+            "Kidnapping": 10.78,
+            "Kidnapping-Cases-Reported": 133,
+            "Rape": 5.11,
+            "Rape-Cases-Reported": 63,
+            "Sexual_Harrassment": 4.05,
+            "Sexual_Harrassment-Cases-Reported": 50
+        },
+        "Meghalaya": {
+            "Domestic_Violence": 1.29,
+            "Domestic_Violence-Cases-Reported": 17,
+            "Kidnapping": 1.82,
+            "Kidnapping-Cases-Reported": 24,
+            "Rape": 12.46,
+            "Rape-Cases-Reported": 164,
+            "Sexual_Harrassment": 3.27,
+            "Sexual_Harrassment-Cases-Reported": 43
+        },
+        "Mizoram": {
+            "Domestic_Violence": 1.62,
+            "Domestic_Violence-Cases-Reported": 8,
+            "Kidnapping": 0.61,
+            "Kidnapping-Cases-Reported": 3,
+            "Rape": 20.81,
+            "Rape-Cases-Reported": 103,
+            "Sexual_Harrassment": 17.17,
+            "Sexual_Harrassment-Cases-Reported": 85
+        },
+        "Nagaland": {
+            "Domestic_Violence": 0.0,
+            "Domestic_Violence-Cases-Reported": 0,
+            "Kidnapping": 0.92,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 1.93,
+            "Rape-Cases-Reported": 21,
+            "Sexual_Harrassment": 1.47,
+            "Sexual_Harrassment-Cases-Reported": 16
+        },
+        "Orissa": {
+            "Domestic_Violence": 15.51,
+            "Domestic_Violence-Cases-Reported": 3163,
+            "Kidnapping": 6.69,
+            "Kidnapping-Cases-Reported": 1364,
+            "Rape": 7.15,
+            "Rape-Cases-Reported": 1458,
+            "Sexual_Harrassment": 22.02,
+            "Sexual_Harrassment-Cases-Reported": 4491
+        },
+        "Puducherry": {
+            "Domestic_Violence": 0.87,
+            "Domestic_Violence-Cases-Reported": 6,
+            "Kidnapping": 2.33,
+            "Kidnapping-Cases-Reported": 16,
+            "Rape": 1.89,
+            "Rape-Cases-Reported": 13,
+            "Sexual_Harrassment": 1.6,
+            "Sexual_Harrassment-Cases-Reported": 11
+        },
+        "Punjab": {
+            "Domestic_Violence": 10.88,
+            "Domestic_Violence-Cases-Reported": 1411,
+            "Kidnapping": 5.32,
+            "Kidnapping-Cases-Reported": 689,
+            "Rape": 5.25,
+            "Rape-Cases-Reported": 680,
+            "Sexual_Harrassment": 2.86,
+            "Sexual_Harrassment-Cases-Reported": 371
+        },
+        "Rajasthan": {
+            "Domestic_Violence": 41.65,
+            "Domestic_Violence-Cases-Reported": 13790,
+            "Kidnapping": 8.15,
+            "Kidnapping-Cases-Reported": 2697,
+            "Rape": 6.19,
+            "Rape-Cases-Reported": 2049,
+            "Sexual_Harrassment": 7.16,
+            "Sexual_Harrassment-Cases-Reported": 2370
+        },
+        "Sikkim": {
+            "Domestic_Violence": 1.71,
+            "Domestic_Violence-Cases-Reported": 5,
+            "Kidnapping": 3.42,
+            "Kidnapping-Cases-Reported": 10,
+            "Rape": 11.64,
+            "Rape-Cases-Reported": 34,
+            "Sexual_Harrassment": 6.51,
+            "Sexual_Harrassment-Cases-Reported": 19
+        },
+        "Tamil Nadu": {
+            "Domestic_Violence": 6.12,
+            "Domestic_Violence-Cases-Reported": 2075,
+            "Kidnapping": 5.0,
+            "Kidnapping-Cases-Reported": 1693,
+            "Rape": 2.18,
+            "Rape-Cases-Reported": 737,
+            "Sexual_Harrassment": 5.54,
+            "Sexual_Harrassment-Cases-Reported": 1876
+        },
+        "Tripura": {
+            "Domestic_Violence": 49.92,
+            "Domestic_Violence-Cases-Reported": 895,
+            "Kidnapping": 6.36,
+            "Kidnapping-Cases-Reported": 114,
+            "Rape": 12.77,
+            "Rape-Cases-Reported": 229,
+            "Sexual_Harrassment": 17.9,
+            "Sexual_Harrassment-Cases-Reported": 321
+        },
+        "Uttar Pradesh": {
+            "Domestic_Violence": 10.19,
+            "Domestic_Violence-Cases-Reported": 9905,
+            "Kidnapping": 8.14,
+            "Kidnapping-Cases-Reported": 7910,
+            "Rape": 2.02,
+            "Rape-Cases-Reported": 1963,
+            "Sexual_Harrassment": 3.35,
+            "Sexual_Harrassment-Cases-Reported": 3255
+        },
+        "Uttaranchal": {
+            "Domestic_Violence": 8.85,
+            "Domestic_Violence-Cases-Reported": 439,
+            "Kidnapping": 5.16,
+            "Kidnapping-Cases-Reported": 256,
+            "Rape": 2.98,
+            "Rape-Cases-Reported": 148,
+            "Sexual_Harrassment": 4.27,
+            "Sexual_Harrassment-Cases-Reported": 212
+        },
+        "West Bengal": {
+            "Domestic_Violence": 46.48,
+            "Domestic_Violence-Cases-Reported": 20458,
+            "Kidnapping": 9.5,
+            "Kidnapping-Cases-Reported": 4180,
+            "Rape": 4.65,
+            "Rape-Cases-Reported": 2046,
+            "Sexual_Harrassment": 8.86,
+            "Sexual_Harrassment-Cases-Reported": 3901
+        }
+    }
+}
