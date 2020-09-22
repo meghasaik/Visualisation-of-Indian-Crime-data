@@ -11,24 +11,23 @@ Implemented a web-based interactive visualization tool for visualizing crime dat
 -Anotation box- for showing scenes.
 -Tabs/Scenes.
 -Slider: for changing year.
-# Interactions
+# Interactions-
   There are various interactions for showing these trends. They are:
-  -Brushing & Linking: Dynamically updating the different charts and annotation box.
-  -Sorting & Filtering: This is done based on:
+  # Brushing & Linking: 
+  Dynamically updating the different charts and annotation box.
+  # Sorting & Filtering: 
+                         This is done based on:
                         -based on Number of cases reported.
                         -based on Crime Rate.
                         -based on Crime Type.
                         -based on the State.
                         -based on the year.
-  -Tooltip: For details.
-  -Changing the Scene.
-  
-  The user gets a basic general overview through the website introduction page. The user also gets to know how to interact with the web-page and tool. The user also gets to know 
-  the basic terminologies related to crime. The other tabs consist of the crimes. The crimes are: Domestic Violence, Kidnapping, Rape and Sexual Harrassment. Through each crime,
-  we get to know each state's cases depending upon Crime rate & Number of Cases reported, Highlighted states for that particular crime, Bar charts for representing Number of 
-  Cases reported/arrested/convicted ans also Number of cases reported per state. A text box is also given for specifying the information related to that Crime.
-  An Explore tab has also been given for the user so that the user can explore the crime and its relation with the state and year through the Line chart and Bar chart.
-  
+  # Tooltip: 
+  For details.
+  # Changing the Scene.
+  # General overview:
+  The user gets a basic general overview through the website introduction page. The user also gets to know how to interact with the web-page and tool. The user also gets to know the basic terminologies related to crime. The other tabs consist of the crimes. The crimes are: Domestic Violence, Kidnapping, Rape and Sexual Harrassment. Through each crime,we get to know each state's cases depending upon Crime rate & Number of Cases reported, Highlighted states for that particular crime, Bar charts for representing Number of Cases reported/arrested/convicted ans also Number of cases reported per state. A text box is also given for specifying the information related to that Crime. An Explore tab has also been given for the user so that the user can explore the crime and its relation with the state and year through the Line chart and Bar chart.
+  # LINK:
   The link to the video: https://youtu.be/0PsAdxWDOvc
   
   
