@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- India State Map  -->
+  <title>India Map</title>
+  <meta charset="utf-8"/>
+
+  <!--  Styles  -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="node_modules/perfect-scrollbar/dist/perfect-scrollbar.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+
+  <script>
+    d3version5 = d3
+        window.d3 = null
+  </script>
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script>
+    d3version3 = d3
+        window.d3 = null
+  </script>
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script>
+          d3version4 = d3
+              window.d4 = null
+        </script>
+ 
+ <!--Line Styling-->
+  <style type="text/css">
+    .line {
+  fill:none;
+  stroke: #ff5e57;
+  stroke-width: 3;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+  fill: #ff5e57;
+  stroke: #fff;
+}
+
+.focus circle {
+  fill: blue;
+  stroke: steelblue;
+}
+
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    svg {
+      background: #f7f7f7;
+    }
+
+    #india {
+      /*    fill: #00BCD4;
+      opacity: .7; */
+      stroke: #101010;
+      stroke-width: .6;
+    }
+
+    div.tooltip {
+      position: absolute;
+      text-align: center;
+      padding: 0.5em;
+      font-size: 10px;
+      color: #222;
+      background: #FFF;
+      border-radius: 2px;
+      pointer-events: none;
+      box-shadow: 0px 0px 2px 0px #a6a6a6;
+    }
+
+    .key path {
+        display: none;
+    }
+
+    .key line {
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .key text {
+        font-size: 10px;
+    }
+
+    .key rect{
+      stroke-width: .4;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="container-fluid" >
+    <div class="row first_row">
+      <div class="btn col-sm-8 div_ano" id="stitle" >
+        Crime Against Women
+      </div>
+        <div class="col-sm-2 dropdown">
+         <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select Crime
+         <span class="caret"></span></button>
+         <ul class="dropdown-menu" id="purpose_list">
+
+         </ul>
+       </div>
+        <div class="col-sm-2 dropdown">
+         <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select State
+         <span class="caret"></span></button>
+         <ul class="dropdown-menu" id="state_list">
+         </ul>
+       </div>
+      
+
+    </div>
+    <div class="row second_row">
+     <div  class="btn btn-default col-sm-1 scene ">◀</div>
+     <div  class="btn btn-default col-sm-2 scene " id="s1">Modesty Paradox</div>
+     <div  class="btn btn-default col-sm-2 scene">Scene2</div>
+     <div  class="btn btn-default col-sm-2 scene">Scene3</div>
+     <div  class="btn btn-default col-sm-2 scene">Scene4</div>
+     <div  class="btn btn-default col-sm-2 scene">Scene5</div>
+     <div  class="btn btn-default col-sm-1 scene">▶</div>
+
+    </div>
+
+    <div class="row third_row">
+    <div class="col-sm-5 " id="chart"></div>
+    <div class="col-sm-7 ">
+      <div  class="row my-custom-scrollbar my-custom-scrollbar-primary">
+
+        <div class="four_charts" id="trend_chart" ></div>
+        <div class="four_charts"  id="gchart"></div>
+        <div class="four_charts" id ="comparison_chart" style="background-color: burlywood;"></div>
+
+      </div>
+      <div class="row div_ano_bottom">
+
+        <div class="row">Anotations</div>
+        <div class="row">India is purported to be a country known for sexual violence against women,<br> according to the Thomson Reuters Foundation <a href="http://poll2018.trust.org/" target="_blank">2018 survey.</a></div>
+        <div class="row">Our visualization aims to make Indian citizens aware of this and possibly provoke minds to ponder and come up with solutions.</div>
+        <div class="row">Go Through each Scene to know more about India's condition.</div>
+      </div>
+
+    </div>
+    </div>
+</div>
+<!--
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script> -->
+
+
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+
+  <script type="text/javascript" src="d3.geo.min.js"></script>
+
+<!-- <script src="./main.js"></script> -->
+
+
+<script src="./d3.tip.v0.6.3.js"></script>
+<link rel="stylesheet" href="state-comparison-bar-chart.css">
+<script src="./crime-trend-chart.js"></script>
+<script src="./state_comparison-chart.js"></script>
+<script src="./app-state.js"></script>
+<script type="text/javascript" src="map.js"></script>
+<script src="gbarchart.js"></script>
+
+
+
+</body>
+<script>
+    var ps = new PerfectScrollbar('.my-custom-scrollbar');
+    ps.update();
+
+
+     </script>
+</html>

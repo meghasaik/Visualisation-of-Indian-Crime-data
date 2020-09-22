@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Infovis</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
+<link rel="stylesheet" href="style.css">
+
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,700'><link rel="stylesheet" href="nav/style.css">
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<link rel='stylesheet' href="top5/style.css">
+
+
+<script>
+  d3version5 = d3
+      window.d3 = null
+</script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script>
+  d3version3 = d3
+      window.d3 = null
+</script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script>
+        d3version4 = d3
+            window.d4 = null
+      </script>
+
+<style type="text/css">
+    .line {
+  fill:none;
+  stroke: #ff5e57;
+  stroke-width: 3;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+  fill: #ff5e57;
+  stroke: #fff;
+}
+
+.focus circle {
+  fill: blue;
+  stroke: steelblue;
+}
+
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    
+
+    #india {
+      /*    fill: #00BCD4;
+      opacity: .7; */
+      stroke: #101010;
+      stroke-width: .6;
+    }
+
+    div.tooltip {
+      position: absolute;
+      text-align: center;
+      padding: 0.5em;
+      font-size: 10px;
+      color: #222;
+      background: #FFF;
+      border-radius: 2px;
+      pointer-events: none;
+      box-shadow: 0px 0px 2px 0px #a6a6a6;
+    }
+
+    .key path {
+        display: none;
+    }
+
+    .key line {
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .key text {
+        font-size: 10px;
+    }
+
+    .key rect{
+      stroke-width: .4;
+    }
+
+  </style>      
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="container"> 
+<section id="fancyTabWidget" class="tabs t-tabs">
+        <ul class="nav nav-tabs fancyTabs" role="tablist">
+        
+                    <li class="tab fancyTab active">
+                    <div class="arrow-down"><div class="arrow-down-inner"></div></div>	
+                        <a id="tab0" href="#tabBody0" role="tab" aria-controls="tabBody0" aria-selected="true" data-toggle="tab" tabindex="0"><span class="hidden-xs">Intro</span></a>
+                    	<div class="whiteBlock"></div>
+                    </li>
+                    
+                    <li class="tab fancyTab">
+                    <div class="arrow-down"><div class="arrow-down-inner"></div></div>
+                        <a id="tab1" href="#tabBody0" role="tab" aria-controls="tabBody1" aria-selected="true" data-toggle="tab" tabindex="0"></span><span class="hidden-xs">Crime:Domestic Violence</span></a>
+                        <div class="whiteBlock"></div>
+                    </li>
+                    
+                    <li class="tab fancyTab">
+                    <div class="arrow-down"><div class="arrow-down-inner"></div></div>
+                        <a id="tab2" href="#tabBody0" role="tab" aria-controls="tabBody2" aria-selected="true" data-toggle="tab" tabindex="0"></span><span class="hidden-xs">Crime:Kidnapping</span></a>
+                        <div class="whiteBlock"></div>
+                    </li>
+                    
+                    <li class="tab fancyTab">
+                    <div class="arrow-down"><div class="arrow-down-inner"></div></div>
+                        <a id="tab3" href="#tabBody0" role="tab" aria-controls="tabBody3" aria-selected="true" data-toggle="tab" tabindex="0"></span><span class="hidden-xs">Crime:Rape</span></a>
+                        <div class="whiteBlock"></div>
+                    </li> 
+                         
+                    <li class="tab fancyTab">
+                    <div class="arrow-down"><div class="arrow-down-inner"></div></div>
+                        <a id="tab4" href="#tabBody0" role="tab" aria-controls="tabBody4" aria-selected="true" data-toggle="tab" tabindex="0"></span><span class="hidden-xs">Crime:Sexual Harassment</span></a>
+                        <div class="whiteBlock"></div>
+                    </li>
+                    
+                    <li class="tab fancyTab">
+                    <div class="arrow-down"><div class="arrow-down-inner"></div></div>
+                        <a id="tab5" href="#tabBody0" role="tab" aria-controls="tabBody5" aria-selected="true" data-toggle="tab" tabindex="0"></span><span class="hidden-xs">Explore</span></a>
+                        <div class="whiteBlock"></div>
+                    </li>
+        </ul>
+        <div id="myTabContent" class="tab-content fancyTabContent" aria-live="polite">
+                    <div class="tab-pane  fade active in" id="tabBody0" role="tabpanel" aria-labelledby="tab0" aria-hidden="false" tabindex="0">
+                        <div class="row">
+                         <div class="Intro" style="margin-left: 5%;margin-right: 5%; margin-top: 2%;">
+                            <h1 style="text-align: center;">Crime Against Women in India</h1>
+                           <p style="text-align: justify;"><span style="font-weight: 400;">India is purported to be a country known for sexual violence against women, according to the Thomson Reuters Foundation 2018 survey[1]. India is called Bharat Mata (Hindi, from Sanskrit Bhāratāmbā) meaning Mother India in English, a country whose name itself Signifies the importance of women. Despite the symbolism, women in India face a lot of hardships.  Around 130,000 - 220,000 cases of crime against women have been reported annually between the years 2001-2012 with a steadily increasing trend. 65% of Indian men believe women should tolerate violence in order to keep the family together, and women sometimes deserve to be beaten[2].</span><a title="&quot;I've Spent My Life At Police Stations...&quot; - Mariyam Saigal | Spoken Fest 2019" href="https://www.youtube.com/watch?v=1-9JzgFPpFo" target="_blank">Watch this</a> poetic performance by Mariyam Saigal as she talks about the Crime against women.</p></p>
+                           <p><span style="font-weight: 400;">This visualization tool aims to make people aware of the crimes committed against women in India. Some of the top crimes committed against women in India are- Domestic Violence, Sexual Harassment, Rape and Kidnapping.&nbsp;</span></p>
+                           <p><span style="font-weight: 400;">The following data is presented in this tool-</span></p>
+                           <ol>
+                           <li style="font-weight: 400;"><span style="font-weight: 400;">The number of reported crime cases in each state.</span></li>
+                           <li style="font-weight: 400;"><span style="font-weight: 400;">The crime rate (number of crime victims per 100,000 women), which is independent of the size of the population of a state.</span></li>
+                           <li style="font-weight: 400;"><span style="font-weight: 400;">The number of cases being reported, the number of people getting arrested and the number of people actually being convicted.&nbsp;</span></li>
+                           <li style="font-weight: 400;"><span style="font-weight: 400;">States which are the most prominent for a particular crime.</span></li>
+                           </ol>
+                           <p style="text-align: left; "><span style="font-weight: 400;"><img style=" display: block; margin-left: auto; margin-right: auto;" title="File: A formation of human chain at India Gate by the women from different walks of life at the launch of a National Campaign on prevention of violence against women, in New Delhi on October 02, 2009" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/A_formation_of_human_chain_at_India_Gate_by_the_women_from_different_walks_of_life_at_the_launch_of_a_National_Campaign_on_prevention_of_violence_against_women%2C_in_New_Delhi_on_October_02%2C_2009.jpg/800px-thumbnail.jpg" alt="File:A formation of human chain at India Gate by the women from different walks of life at the launch of a National Campaign on prevention of violence against women, in New Delhi on October 02, 2009.jpg" width="875" height="461" data-file-width="2240" data-file-height="1179" /></a></span></p>
+<p style="text-align: center; "><em><span style="font-weight: 400;">Image - A formation of human chain at India Gate by the women from different walks of life at the launch of a National Campaign on prevention of violence against women, in New Delhi on October 02, 2009</span></em></p>
+<p style="text-align: left;"><strong>Source:</strong></p>
+<p style="text-align: left;"><span style="font-weight: 400;">[1]&nbsp; </span><a href="https://poll2018.trust.org/" target="_blank"><span style="font-weight: 400;">https://poll2018.trust.org/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">[2] "International Men and Gender Equality Survey (IMAGES)". ICRW.org. Archived from the original on 2016-03-27. Retrieved 2016-04-05. </span><a href="https://www.icrw.org/publications/international-men-and-gender-equality-survey-images/" target="_blank"><span style="font-weight: 400;">https://www.icrw.org/publications/international-men-and-gender-equality-survey-images/</span></a></p>                         
+</div> 
+                        <div class="col-md-5">    
+                        <div class="row">
+                            <div id="radio_buttons" style="width:100%;margin-left:10%;margin-top:5%;"  >
+                                <label style="margin-right:10%;" >
+                                  <input type="radio" name="options"  id="b_ci" checked>  Based on Crime Rate<sup>*</sup>
+                                </label>
+                                <label >
+                                  <input type="radio" name="options" id="b_cr" >  Based on No. of Cases Reported
+                                </label><br>
+                                <label><sup>* No Of Victims Per 100,000 Women</sup></label>
+                               
+                              </div>      
+                   <div class="textdata1 " id="title_m" style=" font-weight: bold; text-align: center;margin-top: 3%;margin-bottom: -5%;">CRIME RATES</div><br>
+                            	<div class="col-md-6"  id="chart" style=" height: 500px;width: 500px; ">
+                             </div>
+                           
+                            </div>
+                            <div class="row col-md-6" id="slider" style="margin-left: 2%;">
+                                    <input id="ex13" type="text"  data-slider-ticks="[2001, 2002, 2003, 2004, 2005,2006,2007,2008,2009,2010,2011,2012]" data-slider-ticks-snap-bounds="20" data-slider-ticks-labels='["2001", "2002", "2003", "2004", "2005","2006","2007"]'/>
+
+
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-1">
+                            <div class="row" >
+                                <div class="TopList" style="font-size: 14px;">
+                                        <div class="row">
+                                        <label class="dropobtn" style="    padding: 12px 1px;
+                                        ">Highlighted States</label><br>
+                                        <div class="dropup">
+                                        <button class="btn-primary" id="state1">State 1</button>
+                                        </div>
+                                        </div>
+                                        
+                                        <div class="row">
+                                                <div class="dropup">
+                                                    
+                                                  <button class="btn-primary" id="state2">State 1</button>
+                                                
+                                                
+                                                </div>
+                                                </div>
+                                        
+                                        
+                                        <div class="row">
+                                        <div class="dropup">
+                                            
+                                          <button class="btn-primary" id="state3">State 1</button>
+                                        
+                                        
+                                        </div>
+                                        </div>
+                                        
+                                        
+                                        <div class="row">
+                                                <div class="dropup">
+                                                    
+                                                  <button class="btn-primary" id="state4">State 1</button>
+                                                 
+                                                
+                                                </div>
+                                        </div>
+                                        <div class="row">
+                                                <div class="dropup">
+                                                    
+                                                  <button class="btn-primary" id="state5">State 1</button>
+                                                 
+                                                
+                                                </div>
+                                        </div>
+                                </div> 
+                                <div class="row">
+        
+                                    <div class="member" style="margin-left:-50%;margin-top:50%">
+                                    <div class="member-heading">
+                                    <div class="heading" style="font-family: 'PT Sans'; font-size: 28px; line-height: 30px; text-align: center;">Total Cases</div>
+                                    </div>
+                                    <div class="member-value" style="text-align: center;">
+                                    <div class="value-bg">&nbsp;</div>
+                                    <span class="value" id="cases_text" style="font-size: 67px; line-height: 69px; padding-top: 55px;color:red;"> 470.2 </span></div>
+                                    </div>
+                                    
+                                    
+                                            </div>    
+                           </div>
+                           
+                        </div>
+                        <div class="col-md-6" style="margin-left: -0.8%;">
+                            <div class="row" id="filters" style="margin-right: 0.1%;">
+                            <div class="col-md-6 dropdown" style="margin-top:0.8%;">
+                                <button id="crime_selector" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select Crime
+                                <span class="caret"></span></button>
+                                <ul class="dropdown-menu" id="purpose_list">
+                       
+                                </ul>
+                              </div>
+                               <div class="col-md-6 dropdown" style="margin-top:0.8%;">
+                                <button id="state_selector" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select State
+                                <span class="caret"></span></button>
+                                <ul class="dropdown-menu" id="state_list">
+                                </ul>
+                              </div>
+                            </div>
+                            <div id="explore_charts" class="row">
+        <div class="four_charts" id="tc">
+        <div style="text-align:center; font-weight: bold;margin-bottom: -4%;" id="title_t"> Number of Reported Cases/Year</div>
+        <div  id="trend_chart" style="height: 90%;" ></div>
+        </div>
+        <div class="four_charts" id="gc">
+                <div style="text-align:center; font-weight: bold;margin-bottom: -4%;"id="title_g"> No. of case reported/ arrested/ convicted</div>
+                <div  id="gchart" style="height: 90%;margin-top: 14px" ></div>
+                </div>
+        <div class="four_charts" id="cc">
+        <div style="text-align:center; font-weight: bold;" id="title_c"> Number of Reported Cases/State</div>
+        <div  id="comparison_chart" style="height: 100%;font-size:10px;" ></div>
+        </div>
+       
+                           </div>
+                           <div class="anno">
+          
+                            </div>  
+                           
+                         </div>     
+                         
+
+                    </div>
+                  
+                    </div>
+<!--                    
+                    <div class="tab-pane  fade" id="tabBody5" role="tabpanel" aria-labelledby="tab5" aria-hidden="true" tabindex="0">
+                    <div class="row">
+                        <div class="col-md-12">
+                        			<h2>This is the content of tab six.</h2>
+                                    <p>This field is a rich HTML field with a content editor like others used in Sitefinity. It accepts images, video, tables, text, etc. Street art polaroid microdosing la croix taxidermy. Jean shorts kinfolk distillery lumbersexual pinterest XOXO semiotics. Tilde meggings asymmetrical literally pork belly, heirloom food truck YOLO. Meh echo park lyft typewriter. </p>
+                                  
+                                </div>
+                            </div>
+                    </div> -->
+        </div>
+
+    </section>
+
+</div>
+
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script><script  src="nav/script.js"></script>
+
+<!--
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script> -->
+
+
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+
+  <script type="text/javascript" src="d3.geo.min.js"></script>
+
+<!-- <script src="./main.js"></script> -->
+
+
+<script src="./d3.tip.v0.6.3.js"></script>
+<script src="./app-state.js"></script>
+
+<link rel="stylesheet" href="state-comparison-bar-chart.css">
+<script src="./crime-trend-chart.js"></script>
+<script src="./state_comparison-chart.js"></script>
+
+<script type="text/javascript" src="map.js"></script>
+<script src="gbarchart.js"></script>
+
+
+<!--scene-->
+<script src="scenes/utility.js"></script>
+<script src="scenes/scene_crime_domestic_violence.js"></script>
+<script src="scenes/scene_crime_kidnapping_abduction.js"></script>
+<script src="scenes/scene_crime_rape.js"></script>
+<script src="scenes/scene_crime_sexual_harrassment.js"></script>
+<script src="scenes/scene_explore.js"></script>
+<script src="scenes/scene_introduction.js"></script>
+
+
+<!--slider-->
+<link rel="stylesheet" href="slider/style.css">
+<script src="slider/main.js"></script>
+<script src="node_modules/bootstrap-slider/dist/bootstrap-slider.js"></script>
+<link rel="stylesheet" href="node_modules/bootstrap-slider/dist/css/bootstrap-slider.css">
+
+<!--radio-->
+<script src="radio/main.js"></script>
+
+<!--top5-->
+<script src="top5/main.js"></script>
+
+
+<script>
+    $('a').attr('target','_blank')
+  </script>
+
+</body>
+</html>
