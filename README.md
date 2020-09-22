@@ -1,9 +1,9 @@
-##Visualisation-of-Indian-Crime-data
+# Visualisation-of-Indian-Crime-data
 Implemented a web-based interactive visualization tool for visualizing crime data related to women. The data was taken from data.gov.in and http://ncrb.gov.in. 
 # DataSet
   The Dataset was taken from the official Indian government website for crime data. The dataset comprised of data for different crimes done against women from the year 2001-2017.
   A user study was done to evaluate this.
-#The Design Elements include:
+# The Design Elements include:
 -Chloropleth to show intensity of crime.
 -Grouped Bar Charts for showing: reported,arrested and convicted data.
 -Bar Chart for state-wise comparison.
@@ -11,7 +11,7 @@ Implemented a web-based interactive visualization tool for visualizing crime dat
 -Anotation box- for showing scenes.
 -Tabs/Scenes.
 -Slider: for changing year.
-#Interactions
+# Interactions
   There are various interactions for showing these trends. They are:
   -Brushing & Linking: Dynamically updating the different charts and annotation box.
   -Sorting & Filtering: This is done based on:
