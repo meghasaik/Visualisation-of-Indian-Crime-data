@@ -1,5 +1,5 @@
 # Visualisation-of-Indian-Crime-data
-Implemented a web-based interactive visualization tool for visualizing crime data related to women. The data was taken from data.gov.in and http://ncrb.gov.in. 
+Implemented a web-based interactive visualization tool for visualizing crime data related to women. The data was taken from https://data.gov.in/ and http://ncrb.gov.in. 
 # DataSet
   The Dataset was taken from the official Indian government website for crime data. The dataset comprised of data for different crimes done against women from the year 2001-2017.
   A user study was done to evaluate this.
